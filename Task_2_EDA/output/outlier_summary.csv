@@ -1,0 +1,4 @@
+Variable,Lower_Bound,Upper_Bound,Outlier_Count
+Quantity,-4.0,12.0,12
+Sales,-2110.2999999999997,3982.3399999999997,50
+Profit,-593.71875,1125.71125,46

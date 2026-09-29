@@ -1,0 +1,42 @@
+TASK 2 - EDA FINDINGS REPORT
+
+Dataset
+This project uses a retail sales dataset containing 1,200 order records.
+The dataset was created for this exercise because no dataset was supplied by
+the internship company.
+
+Data quality
+Duplicate rows: 0
+Missing values are checked in the analysis and retained for inspection.
+
+Key figures
+Total sales: 1,372,915.12
+Total profit: 385,431.61
+Average order value: 1,144.10
+Overall profit margin: 28.07%
+
+Business questions
+1. Highest-sales product:
+   Laptop (543,715.20 sales)
+
+2. Highest-sales region:
+   North (368,990.52 sales)
+
+3. Highest-sales month:
+   2025-12 (148,403.27 sales)
+
+4. Relationship between sales and profit:
+   Pearson correlation = 0.968.
+   Higher sales generally occur with higher profit in this dataset.
+
+Outlier analysis
+The 1.5 x IQR rule was applied to Quantity, Sales and Profit.
+See outlier_summary.csv for the thresholds and outliers.csv for the records.
+
+Main observations
+- Product and regional performance varies across the dataset.
+- Monthly sales show changes in demand over the year.
+- Sales are spread across a range of order values, with unusually large
+  transactions visible in the distribution and boxplot.
+- Sales and profit have a positive relationship.
+- The generated charts provide visual support for the numerical findings.

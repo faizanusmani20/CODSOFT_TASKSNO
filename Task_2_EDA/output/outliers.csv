@@ -1,0 +1,109 @@
+Order_Date,Region,Product,Category,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Method,Customer_Type,Month,Outlier_Variable
+2025-03-01,East,Tablet,Electronics,19,330.0,0.08,5768.4,4522.29,1246.11,UPI,Returning,2025-03,Quantity
+2025-03-27,East,Smartphone,Electronics,30,510.0,0.01,15147.0,11239.15,3907.85,UPI,New,2025-03,Quantity
+2025-05-01,East,Laptop,Electronics,32,720.0,0.16,19353.6,12328.15,7025.45,Credit Card,New,2025-05,Quantity
+2025-05-05,West,Keyboard,Accessories,24,48.0,0.2,921.6,588.19,333.41,Debit Card,New,2025-05,Quantity
+2025-07-06,North,Monitor,Electronics,33,260.0,0.12,7550.4,5177.98,2372.42,Credit Card,New,2025-07,Quantity
+2025-07-22,South,Keyboard,Accessories,32,48.0,0.0,1536.0,1036.14,499.86,UPI,New,2025-07,Quantity
+2025-10-08,East,Smartphone,Electronics,29,510.0,0.17,12275.7,8751.6,3524.1,Credit Card,Returning,2025-10,Quantity
+2025-10-17,South,Smartphone,Electronics,23,510.0,0.15,9970.5,7255.32,2715.18,Cash,New,2025-10,Quantity
+2025-11-16,South,Headphones,Accessories,28,85.0,0.12,2094.4,1701.44,392.96,UPI,New,2025-11,Quantity
+2025-12-05,South,Smartphone,Electronics,20,510.0,0.16,8568.0,5647.03,2920.97,UPI,Returning,2025-12,Quantity
+2025-12-24,North,Tablet,Electronics,30,330.0,0.13,8613.0,6947.91,1665.09,UPI,Returning,2025-12,Quantity
+2025-12-30,East,Headphones,Accessories,25,85.0,0.11,1891.25,1318.96,572.29,Credit Card,New,2025-12,Quantity
+2025-01-02,West,Laptop,Electronics,7,720.0,0.15,4284.0,3340.18,943.82,Debit Card,Returning,2025-01,Sales
+2025-01-18,North,Laptop,Electronics,6,720.0,0.01,4276.8,2857.31,1419.49,UPI,Returning,2025-01,Sales
+2025-01-19,South,Laptop,Electronics,6,720.0,0.06,4060.8,2804.18,1256.62,Debit Card,Returning,2025-01,Sales
+2025-01-19,East,Laptop,Electronics,7,720.0,0.17,4183.2,2924.15,1259.05,Credit Card,Returning,2025-01,Sales
+2025-01-25,North,Laptop,Electronics,7,720.0,0.0,5040.0,4011.26,1028.74,Credit Card,New,2025-01,Sales
+2025-02-07,North,Laptop,Electronics,7,720.0,0.18,4132.8,2657.25,1475.55,UPI,New,2025-02,Sales
+2025-03-01,East,Tablet,Electronics,19,330.0,0.08,5768.4,4522.29,1246.11,UPI,Returning,2025-03,Sales
+2025-03-07,North,Laptop,Electronics,6,720.0,0.03,4190.4,2670.42,1519.98,UPI,Returning,2025-03,Sales
+2025-03-10,South,Laptop,Electronics,6,720.0,0.01,4276.8,3467.13,809.67,UPI,New,2025-03,Sales
+2025-03-22,East,Laptop,Electronics,6,720.0,0.06,4060.8,3066.64,994.16,UPI,New,2025-03,Sales
+2025-03-27,East,Smartphone,Electronics,30,510.0,0.01,15147.0,11239.15,3907.85,UPI,New,2025-03,Sales
+2025-04-07,West,Laptop,Electronics,7,720.0,0.02,4939.2,3701.84,1237.36,UPI,Returning,2025-04,Sales
+2025-04-13,South,Laptop,Electronics,7,720.0,0.13,4384.8,3548.98,835.82,Credit Card,New,2025-04,Sales
+2025-04-15,South,Laptop,Electronics,7,720.0,0.04,4838.4,3181.59,1656.81,Cash,Returning,2025-04,Sales
+2025-04-27,West,Laptop,Electronics,7,720.0,0.06,4737.6,3536.57,1201.03,Debit Card,New,2025-04,Sales
+2025-04-28,South,Laptop,Electronics,6,720.0,0.06,4060.8,2975.81,1084.99,UPI,Returning,2025-04,Sales
+2025-05-01,East,Laptop,Electronics,32,720.0,0.16,19353.6,12328.15,7025.45,Credit Card,New,2025-05,Sales
+2025-05-07,West,Laptop,Electronics,7,720.0,,4384.8,2888.17,1496.63,Cash,Returning,2025-05,Sales
+2025-05-07,West,Laptop,Electronics,6,720.0,0.05,4104.0,3243.69,860.31,Credit Card,New,2025-05,Sales
+2025-05-25,West,Laptop,Electronics,6,720.0,0.03,4190.4,3234.93,955.47,Credit Card,New,2025-05,Sales
+2025-05-29,North,Laptop,Electronics,7,720.0,0.04,4838.4,3821.15,1017.25,Credit Card,Returning,2025-05,Sales
+2025-06-10,South,Laptop,Electronics,6,720.0,0.03,4190.4,2858.88,1331.52,Credit Card,New,2025-06,Sales
+2025-06-17,West,Laptop,Electronics,6,720.0,0.06,4060.8,2600.83,1459.97,Debit Card,Returning,2025-06,Sales
+2025-06-18,East,Laptop,Electronics,7,720.0,0.2,4032.0,2861.48,1170.52,UPI,New,2025-06,Sales
+2025-06-30,North,Laptop,Electronics,7,720.0,0.18,4132.8,3178.36,954.44,Cash,New,2025-06,Sales
+2025-07-06,North,Monitor,Electronics,33,260.0,0.12,7550.4,5177.98,2372.42,Credit Card,New,2025-07,Sales
+2025-07-21,East,Laptop,Electronics,7,720.0,0.06,4737.6,3092.95,1644.65,UPI,New,2025-07,Sales
+2025-07-27,West,Laptop,Electronics,7,720.0,0.03,4888.8,3999.88,888.92,Debit Card,New,2025-07,Sales
+2025-08-21,East,Laptop,Electronics,7,720.0,0.05,4788.0,3123.26,1664.74,UPI,Returning,2025-08,Sales
+2025-08-22,North,Laptop,Electronics,7,720.0,0.2,4032.0,3254.31,777.69,Credit Card,Returning,2025-08,Sales
+2025-08-30,South,Laptop,Electronics,7,720.0,0.2,4032.0,3078.04,953.96,UPI,New,2025-08,Sales
+2025-09-06,East,Laptop,Electronics,7,720.0,0.03,4888.8,3530.45,1358.35,UPI,New,2025-09,Sales
+2025-09-11,South,Laptop,Electronics,7,720.0,0.11,4485.6,3158.81,1326.79,Cash,New,2025-09,Sales
+2025-09-13,East,Laptop,Electronics,7,720.0,0.12,4435.2,2770.48,1664.72,Debit Card,New,2025-09,Sales
+2025-10-04,East,Laptop,Electronics,6,720.0,0.03,4190.4,2838.44,1351.96,UPI,New,2025-10,Sales
+2025-10-04,West,Laptop,Electronics,6,720.0,0.06,4060.8,3085.74,975.06,Debit Card,New,2025-10,Sales
+2025-10-08,East,Smartphone,Electronics,29,510.0,0.17,12275.7,8751.6,3524.1,Credit Card,Returning,2025-10,Sales
+2025-10-15,North,Laptop,Electronics,7,720.0,0.03,4888.8,3530.03,1358.77,Credit Card,Returning,2025-10,Sales
+2025-10-17,South,Smartphone,Electronics,23,510.0,0.15,9970.5,7255.32,2715.18,Cash,New,2025-10,Sales
+2025-10-23,South,Laptop,Electronics,7,720.0,0.2,4032.0,3073.0,959.0,Credit Card,New,2025-10,Sales
+2025-11-07,West,Laptop,Electronics,7,720.0,0.08,4636.8,3383.25,1253.55,Cash,New,2025-11,Sales
+2025-11-21,West,Laptop,Electronics,6,720.0,0.07,4017.6,2845.28,1172.32,Cash,Returning,2025-11,Sales
+2025-12-01,West,Laptop,Electronics,7,720.0,0.15,4284.0,3480.18,803.82,Debit Card,New,2025-12,Sales
+2025-12-05,South,Smartphone,Electronics,20,510.0,0.16,8568.0,5647.03,2920.97,UPI,Returning,2025-12,Sales
+2025-12-06,South,Laptop,Electronics,7,720.0,0.1,4536.0,2835.46,1700.54,Debit Card,Returning,2025-12,Sales
+2025-12-07,West,Laptop,Electronics,7,720.0,0.02,4939.2,3184.59,1754.61,UPI,New,2025-12,Sales
+2025-12-15,South,Laptop,Electronics,7,720.0,0.03,4888.8,3971.68,917.12,Credit Card,New,2025-12,Sales
+2025-12-22,West,Laptop,Electronics,7,720.0,0.16,4233.6,3197.55,1036.05,UPI,New,2025-12,Sales
+2025-12-23,West,Laptop,Electronics,7,720.0,0.16,4233.6,3166.3,1067.3,Debit Card,New,2025-12,Sales
+2025-12-24,North,Tablet,Electronics,30,330.0,0.13,8613.0,6947.91,1665.09,UPI,Returning,2025-12,Sales
+2025-01-18,North,Laptop,Electronics,6,720.0,0.01,4276.8,2857.31,1419.49,UPI,Returning,2025-01,Profit
+2025-01-19,South,Laptop,Electronics,6,720.0,0.06,4060.8,2804.18,1256.62,Debit Card,Returning,2025-01,Profit
+2025-01-19,East,Laptop,Electronics,7,720.0,0.17,4183.2,2924.15,1259.05,Credit Card,Returning,2025-01,Profit
+2025-02-07,North,Laptop,Electronics,7,720.0,0.18,4132.8,2657.25,1475.55,UPI,New,2025-02,Profit
+2025-02-11,North,Laptop,Electronics,7,720.0,0.21,3981.6,2630.36,1351.24,Credit Card,New,2025-02,Profit
+2025-03-01,East,Tablet,Electronics,19,330.0,0.08,5768.4,4522.29,1246.11,UPI,Returning,2025-03,Profit
+2025-03-07,North,Laptop,Electronics,6,720.0,0.03,4190.4,2670.42,1519.98,UPI,Returning,2025-03,Profit
+2025-03-27,East,Smartphone,Electronics,30,510.0,0.01,15147.0,11239.15,3907.85,UPI,New,2025-03,Profit
+2025-04-07,West,Laptop,Electronics,7,720.0,0.02,4939.2,3701.84,1237.36,UPI,Returning,2025-04,Profit
+2025-04-14,East,Laptop,Electronics,5,720.0,0.03,3492.0,2186.75,1305.25,UPI,New,2025-04,Profit
+2025-04-15,South,Laptop,Electronics,7,720.0,0.04,4838.4,3181.59,1656.81,Cash,Returning,2025-04,Profit
+2025-04-27,West,Laptop,Electronics,7,720.0,0.06,4737.6,3536.57,1201.03,Debit Card,New,2025-04,Profit
+2025-05-01,East,Laptop,Electronics,32,720.0,0.16,19353.6,12328.15,7025.45,Credit Card,New,2025-05,Profit
+2025-05-07,West,Laptop,Electronics,7,720.0,,4384.8,2888.17,1496.63,Cash,Returning,2025-05,Profit
+2025-05-19,East,Laptop,Electronics,5,720.0,0.03,3492.0,2218.08,1273.92,Credit Card,New,2025-05,Profit
+2025-06-10,South,Laptop,Electronics,6,720.0,0.03,4190.4,2858.88,1331.52,Credit Card,New,2025-06,Profit
+2025-06-17,West,Laptop,Electronics,6,720.0,0.06,4060.8,2600.83,1459.97,Debit Card,Returning,2025-06,Profit
+2025-06-18,East,Laptop,Electronics,7,720.0,0.2,4032.0,2861.48,1170.52,UPI,New,2025-06,Profit
+2025-06-18,East,Laptop,Electronics,6,720.0,0.12,3801.6,2497.0,1304.6,Credit Card,New,2025-06,Profit
+2025-07-06,North,Monitor,Electronics,33,260.0,0.12,7550.4,5177.98,2372.42,Credit Card,New,2025-07,Profit
+2025-07-15,East,Laptop,Electronics,6,720.0,0.11,3844.8,2559.33,1285.47,UPI,Returning,2025-07,Profit
+2025-07-21,East,Laptop,Electronics,7,720.0,0.06,4737.6,3092.95,1644.65,UPI,New,2025-07,Profit
+2025-08-04,West,Laptop,Electronics,5,720.0,0.14,3096.0,1922.22,1173.78,UPI,New,2025-08,Profit
+2025-08-04,South,Laptop,Electronics,6,720.0,0.22,3369.6,2148.28,1221.32,UPI,New,2025-08,Profit
+2025-08-21,East,Laptop,Electronics,7,720.0,0.05,4788.0,3123.26,1664.74,UPI,Returning,2025-08,Profit
+2025-08-23,North,Smartphone,Electronics,7,510.0,0.01,3534.3,2406.8,1127.5,Cash,Returning,2025-08,Profit
+2025-08-28,West,Laptop,Electronics,6,720.0,0.19,3499.2,2232.61,1266.59,UPI,New,2025-08,Profit
+2025-09-06,East,Laptop,Electronics,5,720.0,0.04,3456.0,2274.09,1181.91,Credit Card,New,2025-09,Profit
+2025-09-06,East,Laptop,Electronics,7,720.0,0.03,4888.8,3530.45,1358.35,UPI,New,2025-09,Profit
+2025-09-11,South,Laptop,Electronics,7,720.0,0.11,4485.6,3158.81,1326.79,Cash,New,2025-09,Profit
+2025-09-13,East,Laptop,Electronics,7,720.0,0.12,4435.2,2770.48,1664.72,Debit Card,New,2025-09,Profit
+2025-10-04,East,Laptop,Electronics,6,720.0,0.03,4190.4,2838.44,1351.96,UPI,New,2025-10,Profit
+2025-10-08,East,Smartphone,Electronics,29,510.0,0.17,12275.7,8751.6,3524.1,Credit Card,Returning,2025-10,Profit
+2025-10-11,East,Smartphone,Electronics,6,510.0,0.01,3029.4,1880.65,1148.75,UPI,Returning,2025-10,Profit
+2025-10-15,North,Laptop,Electronics,7,720.0,0.03,4888.8,3530.03,1358.77,Credit Card,Returning,2025-10,Profit
+2025-10-17,South,Smartphone,Electronics,23,510.0,0.15,9970.5,7255.32,2715.18,Cash,New,2025-10,Profit
+2025-11-07,West,Laptop,Electronics,7,720.0,0.08,4636.8,3383.25,1253.55,Cash,New,2025-11,Profit
+2025-11-12,East,Laptop,Electronics,6,720.0,0.09,3931.2,2707.84,1223.36,Debit Card,Returning,2025-11,Profit
+2025-11-21,West,Laptop,Electronics,6,720.0,0.07,4017.6,2845.28,1172.32,Cash,Returning,2025-11,Profit
+2025-12-05,South,Smartphone,Electronics,20,510.0,0.16,8568.0,5647.03,2920.97,UPI,Returning,2025-12,Profit
+2025-12-06,South,Laptop,Electronics,7,720.0,0.1,4536.0,2835.46,1700.54,Debit Card,Returning,2025-12,Profit
+2025-12-07,West,Laptop,Electronics,7,720.0,0.02,4939.2,3184.59,1754.61,UPI,New,2025-12,Profit
+2025-12-15,East,Laptop,Electronics,6,720.0,0.17,3585.6,2444.48,1141.12,UPI,Returning,2025-12,Profit
+2025-12-19,North,Laptop,Electronics,6,720.0,0.2,3456.0,2292.47,1163.53,Debit Card,Returning,2025-12,Profit
+2025-12-24,North,Tablet,Electronics,30,330.0,0.13,8613.0,6947.91,1665.09,UPI,Returning,2025-12,Profit
+2025-12-25,South,Laptop,Electronics,6,720.0,0.15,3672.0,2338.96,1333.04,UPI,Returning,2025-12,Profit
