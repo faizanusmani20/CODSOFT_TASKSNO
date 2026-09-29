@@ -1,0 +1,1201 @@
+Order_Date,Region,Product,Category,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Method,Customer_Type
+2025-01-01,South,Laptop,Electronics,3,720.0,0.1,1944.0,1444.44,499.56,Credit Card,Returning
+2025-01-01,North,Laptop,Electronics,1,720.0,0.15,612.0,448.45,163.55,Credit Card,New
+2025-01-01,North,Mouse,Accessories,7,28.0,0.2,156.8,124.21,32.59,UPI,New
+2025-01-02,West,Laptop,Electronics,7,720.0,0.15,4284.0,3340.18,943.82,Debit Card,Returning
+2025-01-02,West,Smartphone,Electronics,6,510.0,0.17,2539.8,1713.78,826.02,Credit Card,New
+2025-01-02,North,Laptop,Electronics,3,720.0,0.1,1944.0,1512.68,431.32,Credit Card,New
+2025-01-03,South,Tablet,Electronics,2,330.0,0.1,594.0,419.06,174.94,UPI,New
+2025-01-03,South,Keyboard,Accessories,7,48.0,0.06,315.84,216.54,99.3,Debit Card,New
+2025-01-03,West,Tablet,Electronics,4,330.0,0.12,1161.6,752.82,408.78,Credit Card,New
+2025-01-03,East,Smartphone,Electronics,4,510.0,0.08,1876.8,1474.04,402.76,Credit Card,New
+2025-01-03,West,Smartphone,Electronics,4,510.0,0.19,1652.4,1036.08,616.32,UPI,New
+2025-01-04,South,Monitor,Electronics,4,260.0,0.13,904.8,682.24,222.56,Credit Card,Returning
+2025-01-05,East,Smartphone,Electronics,6,510.0,0.04,2937.6,2146.46,791.14,UPI,New
+2025-01-05,South,Laptop,Electronics,3,720.0,0.11,1922.4,1513.36,409.04,Credit Card,Returning
+2025-01-06,North,Laptop,Electronics,4,720.0,0.09,2620.8,1764.81,855.99,UPI,New
+2025-01-06,East,Smartphone,Electronics,5,510.0,0.05,2422.5,1949.02,473.48,Credit Card,New
+2025-01-06,West,Tablet,Electronics,3,330.0,0.19,801.9,538.46,263.44,UPI,New
+2025-01-06,South,Smartphone,Electronics,2,510.0,0.22,795.6,639.04,156.56,UPI,New
+2025-01-06,East,Smartphone,Electronics,7,510.0,0.18,2927.4,2075.96,851.44,Credit Card,Returning
+2025-01-06,North,Smartphone,Electronics,3,510.0,0.14,1315.8,965.15,350.65,Debit Card,New
+2025-01-06,South,Smartphone,Electronics,6,510.0,0.03,2968.2,1874.3,1093.9,Debit Card,Returning
+2025-01-07,North,Headphones,Accessories,7,85.0,0.08,547.4,370.57,176.83,Debit Card,New
+2025-01-07,East,Laptop,Electronics,2,720.0,0.13,1252.8,802.15,450.65,Debit Card,Returning
+2025-01-07,South,Headphones,Accessories,6,85.0,0.12,448.8,298.73,150.07,Debit Card,New
+2025-01-07,North,Headphones,Accessories,5,85.0,0.03,412.25,330.51,81.74,UPI,New
+2025-01-07,North,Keyboard,Accessories,2,48.0,0.06,90.24,72.47,17.77,Credit Card,New
+2025-01-07,South,Mouse,Accessories,4,28.0,0.01,110.88,86.25,24.63,Debit Card,Returning
+2025-01-07,West,Laptop,Electronics,3,720.0,0.2,1728.0,1124.42,603.58,UPI,New
+2025-01-07,West,Headphones,Accessories,3,85.0,0.21,201.45,125.68,75.77,Debit Card,New
+2025-01-08,South,Tablet,Electronics,2,330.0,0.1,594.0,407.56,186.44,Credit Card,New
+2025-01-08,West,Monitor,Electronics,1,260.0,0.12,228.8,180.22,48.58,Debit Card,New
+2025-01-08,South,Keyboard,Accessories,3,48.0,0.13,125.28,92.93,32.35,UPI,Returning
+2025-01-08,East,Keyboard,Accessories,2,48.0,0.15,81.6,51.95,29.65,UPI,Returning
+2025-01-08,West,Keyboard,Accessories,5,48.0,0.09,218.4,154.6,63.8,Cash,Returning
+2025-01-09,East,Laptop,Electronics,1,720.0,0.12,633.6,468.02,165.58,Credit Card,Returning
+2025-01-09,North,Laptop,Electronics,2,720.0,0.02,1411.2,1124.26,286.94,UPI,New
+2025-01-09,East,Headphones,Accessories,4,85.0,0.03,329.8,221.41,108.39,Debit Card,Returning
+2025-01-10,South,Mouse,Accessories,6,28.0,,154.56,100.7,53.86,Cash,Returning
+2025-01-10,North,Tablet,Electronics,1,330.0,0.03,320.1,219.74,100.36,UPI,New
+2025-01-10,South,Monitor,Electronics,4,260.0,0.09,946.4,691.44,254.96,UPI,New
+2025-01-10,North,Keyboard,Accessories,4,48.0,0.2,153.6,115.18,38.42,UPI,New
+2025-01-10,East,Mouse,Accessories,2,28.0,0.06,52.64,38.59,14.05,Credit Card,New
+2025-01-11,South,Monitor,Electronics,5,260.0,0.2,1040.0,653.21,386.79,Debit Card,New
+2025-01-11,North,Headphones,Accessories,7,85.0,0.01,589.05,437.9,151.15,UPI,Returning
+2025-01-11,East,Smartphone,Electronics,3,510.0,0.1,1377.0,884.99,492.01,Credit Card,New
+2025-01-11,West,Keyboard,Accessories,2,48.0,0.13,83.52,55.31,28.21,Debit Card,New
+2025-01-12,North,Laptop,Electronics,6,720.0,0.2,3456.0,2461.35,994.65,Credit Card,Returning
+2025-01-12,North,Monitor,Electronics,1,260.0,0.12,228.8,145.68,83.12,UPI,Returning
+2025-01-12,South,Keyboard,Accessories,4,48.0,0.02,188.16,132.3,55.86,Credit Card,Returning
+2025-01-13,West,Keyboard,Accessories,4,48.0,0.21,151.68,98.25,53.43,UPI,Returning
+2025-01-13,West,Smartphone,Electronics,2,510.0,0.11,907.8,677.34,230.46,Credit Card,New
+2025-01-14,North,Tablet,Electronics,6,330.0,0.15,1683.0,1053.25,629.75,Debit Card,New
+2025-01-14,North,Smartphone,Electronics,3,510.0,0.01,1514.7,1222.27,292.43,Credit Card,Returning
+2025-01-14,West,Tablet,Electronics,2,330.0,0.03,640.2,471.97,168.23,Debit Card,Returning
+2025-01-14,East,Headphones,Accessories,2,85.0,0.16,142.8,111.42,31.38,UPI,New
+2025-01-14,West,Laptop,Electronics,3,720.0,0.22,1684.8,1133.38,551.42,Debit Card,New
+2025-01-15,West,Smartphone,Electronics,2,510.0,0.18,836.4,618.69,217.71,Debit Card,New
+2025-01-15,South,Tablet,Electronics,7,330.0,0.06,2171.4,1672.55,498.85,Credit Card,New
+2025-01-15,East,Mouse,Accessories,2,28.0,0.18,45.92,31.87,14.05,Debit Card,New
+2025-01-15,West,Laptop,Electronics,4,720.0,0.08,2649.6,1668.57,981.03,UPI,Returning
+2025-01-16,East,Keyboard,Accessories,5,48.0,0.15,204.0,155.91,48.09,UPI,New
+2025-01-16,South,Headphones,Accessories,6,85.0,0.15,433.5,285.66,147.84,UPI,New
+2025-01-17,West,Headphones,Accessories,6,85.0,0.1,459.0,290.97,168.03,UPI,New
+2025-01-17,North,Monitor,Electronics,3,260.0,0.09,709.8,469.85,239.95,Debit Card,New
+2025-01-17,East,Monitor,Electronics,4,260.0,0.07,967.2,679.75,287.45,Cash,New
+2025-01-17,South,Mouse,Accessories,7,28.0,0.14,168.56,117.49,51.07,Debit Card,Returning
+2025-01-18,East,Monitor,Electronics,5,260.0,0.18,1066.0,668.66,397.34,UPI,Returning
+2025-01-18,North,Smartphone,Electronics,2,510.0,0.12,897.6,567.61,329.99,UPI,New
+2025-01-18,North,Laptop,Electronics,6,720.0,0.01,4276.8,2857.31,1419.49,UPI,Returning
+2025-01-19,South,Laptop,Electronics,6,720.0,0.06,4060.8,2804.18,1256.62,Debit Card,Returning
+2025-01-19,East,Laptop,Electronics,7,720.0,0.17,4183.2,2924.15,1259.05,Credit Card,Returning
+2025-01-20,South,Keyboard,Accessories,3,48.0,0.1,129.6,96.0,33.6,UPI,Returning
+2025-01-20,North,Laptop,Electronics,1,720.0,0.06,676.8,489.45,187.35,Cash,Returning
+2025-01-22,West,Tablet,Electronics,5,330.0,0.14,1419.0,1150.56,268.44,Credit Card,New
+2025-01-22,North,Smartphone,Electronics,2,510.0,0.03,989.4,700.37,289.03,Cash,Returning
+2025-01-22,North,Keyboard,Accessories,6,48.0,0.15,244.8,192.0,52.8,Cash,New
+2025-01-22,South,Headphones,Accessories,7,85.0,0.11,529.55,404.71,124.84,Credit Card,Returning
+2025-01-24,East,Headphones,Accessories,6,85.0,0.13,443.7,278.91,164.79,Debit Card,Returning
+2025-01-24,South,Headphones,Accessories,4,85.0,0.0,340.0,217.34,122.66,Credit Card,New
+2025-01-24,West,Tablet,Electronics,6,330.0,0.12,1742.4,1183.1,559.3,UPI,Returning
+2025-01-25,North,Laptop,Electronics,7,720.0,0.0,5040.0,4011.26,1028.74,Credit Card,New
+2025-01-25,West,Monitor,Electronics,1,260.0,0.04,249.6,176.59,73.01,UPI,New
+2025-01-25,West,Headphones,Accessories,4,85.0,0.05,323.0,242.15,80.85,Debit Card,Returning
+2025-01-25,West,Laptop,Electronics,1,720.0,0.06,676.8,504.69,172.11,Credit Card,New
+2025-01-26,East,Smartphone,Electronics,4,510.0,0.06,1917.6,1367.44,550.16,Cash,Returning
+2025-01-26,West,Mouse,Accessories,6,28.0,0.18,137.76,90.49,47.27,UPI,New
+2025-01-26,South,Smartphone,Electronics,5,510.0,0.01,2524.5,1888.52,635.98,UPI,Returning
+2025-01-26,West,Headphones,Accessories,3,85.0,0.21,201.45,126.4,75.05,Cash,Returning
+2025-01-27,West,Smartphone,Electronics,4,510.0,0.08,1876.8,1292.67,584.13,UPI,Returning
+2025-01-27,East,Headphones,Accessories,7,85.0,0.08,547.4,378.49,168.91,Cash,Returning
+2025-01-27,North,Smartphone,Electronics,6,510.0,0.17,2539.8,1787.85,751.95,UPI,Returning
+2025-01-27,North,Laptop,Electronics,3,720.0,0.1,1944.0,1269.46,674.54,UPI,Returning
+2025-01-27,East,Monitor,Electronics,6,260.0,0.09,1419.6,1058.9,360.7,Cash,Returning
+2025-01-28,North,Mouse,Accessories,5,28.0,0.21,110.6,70.27,40.33,UPI,Returning
+2025-01-28,East,Laptop,Electronics,4,720.0,0.2,2304.0,1823.15,480.85,UPI,Returning
+2025-01-28,South,Mouse,Accessories,1,28.0,0.02,27.44,19.67,7.77,UPI,New
+2025-01-28,North,Laptop,Electronics,2,720.0,0.05,1368.0,987.5,380.5,UPI,New
+2025-01-29,East,Monitor,Electronics,6,260.0,0.08,1435.2,910.79,524.41,Debit Card,New
+2025-01-29,South,Monitor,Electronics,5,260.0,0.04,1248.0,972.39,275.61,Debit Card,New
+2025-01-30,East,Keyboard,Accessories,6,48.0,0.22,224.64,171.14,53.5,Debit Card,New
+2025-01-30,South,Headphones,Accessories,6,85.0,0.16,428.4,310.09,118.31,Cash,New
+2025-01-31,West,Smartphone,Electronics,2,510.0,0.19,826.2,596.73,229.47,Debit Card,New
+2025-01-31,West,Headphones,Accessories,1,85.0,0.12,74.8,49.71,25.09,UPI,New
+2025-01-31,West,Mouse,Accessories,5,28.0,0.12,123.2,92.85,30.35,UPI,Returning
+2025-01-31,North,Smartphone,Electronics,6,510.0,0.04,2937.6,2174.3,763.3,Cash,New
+2025-01-31,South,Mouse,Accessories,7,28.0,0.0,196.0,127.02,68.98,UPI,Returning
+2025-02-01,South,Monitor,Electronics,7,260.0,0.06,1710.8,1093.28,617.52,Debit Card,Returning
+2025-02-01,West,Mouse,Accessories,3,28.0,0.21,66.36,51.75,14.61,Credit Card,New
+2025-02-01,West,Smartphone,Electronics,4,510.0,0.09,1856.4,1472.19,384.21,Debit Card,Returning
+2025-02-02,West,Keyboard,Accessories,6,48.0,0.13,250.56,171.27,79.29,Credit Card,New
+2025-02-03,East,Keyboard,Accessories,1,48.0,0.19,38.88,30.26,8.62,Credit Card,New
+2025-02-03,East,Monitor,Electronics,6,260.0,0.12,1372.8,1098.54,274.26,Credit Card,Returning
+2025-02-03,East,Mouse,Accessories,1,28.0,0.13,24.36,16.69,7.67,Debit Card,New
+2025-02-04,North,Mouse,Accessories,7,28.0,0.07,182.28,126.9,55.38,UPI,New
+2025-02-06,West,Mouse,Accessories,6,28.0,0.14,144.48,113.32,31.16,Debit Card,Returning
+2025-02-06,North,Smartphone,Electronics,4,510.0,0.12,1795.2,1439.16,356.04,Cash,New
+2025-02-06,East,Smartphone,Electronics,2,510.0,0.2,816.0,629.69,186.31,Debit Card,New
+2025-02-07,North,Laptop,Electronics,7,720.0,0.18,4132.8,2657.25,1475.55,UPI,New
+2025-02-08,North,Mouse,Accessories,2,28.0,0.2,44.8,28.82,15.98,Cash,Returning
+2025-02-08,East,Headphones,Accessories,6,85.0,0.02,499.8,311.43,188.37,Credit Card,New
+2025-02-08,East,Mouse,Accessories,6,28.0,0.04,161.28,112.46,48.82,Debit Card,Returning
+2025-02-08,North,Monitor,Electronics,1,260.0,0.04,249.6,165.07,84.53,Debit Card,Returning
+2025-02-09,West,Headphones,Accessories,1,85.0,0.18,69.7,45.07,24.63,Credit Card,New
+2025-02-09,South,Laptop,Electronics,4,720.0,0.06,2707.2,1902.48,804.72,UPI,New
+2025-02-09,North,Smartphone,Electronics,7,510.0,0.05,3391.5,2619.56,771.94,Debit Card,New
+2025-02-10,West,Laptop,Electronics,6,720.0,0.21,3412.8,2492.94,919.86,Cash,Returning
+2025-02-10,South,Tablet,Electronics,6,330.0,0.04,1900.8,1415.22,485.58,Debit Card,New
+2025-02-10,East,Smartphone,Electronics,2,510.0,0.0,1020.0,702.31,317.69,Cash,New
+2025-02-10,West,Monitor,Electronics,6,260.0,0.08,1435.2,1004.66,430.54,UPI,New
+2025-02-10,West,Smartphone,Electronics,3,510.0,0.09,1392.3,1066.3,326.0,Debit Card,New
+2025-02-10,North,Smartphone,Electronics,4,510.0,0.06,1917.6,1251.95,665.65,UPI,New
+2025-02-11,North,Laptop,Electronics,7,720.0,0.21,3981.6,2630.36,1351.24,Credit Card,New
+2025-02-11,South,Laptop,Electronics,6,720.0,0.13,3758.4,2792.51,965.89,Credit Card,Returning
+2025-02-13,South,Smartphone,Electronics,6,510.0,0.08,2815.2,1974.3,840.9,Debit Card,Returning
+2025-02-13,North,Tablet,Electronics,1,330.0,0.01,326.7,221.63,105.07,Debit Card,Returning
+2025-02-14,East,Smartphone,Electronics,6,510.0,0.22,2386.8,1637.5,749.3,UPI,Returning
+2025-02-14,North,Smartphone,Electronics,2,510.0,0.08,938.4,704.94,233.46,Debit Card,New
+2025-02-15,East,Headphones,Accessories,2,85.0,0.1,153.0,114.69,38.31,UPI,Returning
+2025-02-15,East,Keyboard,Accessories,1,48.0,0.18,39.36,26.95,12.41,UPI,New
+2025-02-15,East,Headphones,Accessories,7,85.0,0.03,577.15,379.62,197.53,UPI,New
+2025-02-15,North,Headphones,Accessories,6,85.0,0.0,510.0,329.46,180.54,UPI,Returning
+2025-02-15,East,Tablet,Electronics,5,330.0,0.09,1501.5,973.71,527.79,Credit Card,New
+2025-02-15,North,Headphones,Accessories,3,85.0,0.16,214.2,144.16,70.04,UPI,New
+2025-02-16,West,Mouse,Accessories,3,28.0,0.15,71.4,45.03,26.37,Credit Card,Returning
+2025-02-16,West,Keyboard,Accessories,2,48.0,0.14,82.56,66.53,16.03,Credit Card,New
+2025-02-16,West,Monitor,Electronics,4,260.0,0.1,936.0,643.72,292.28,Credit Card,Returning
+2025-02-16,South,Tablet,Electronics,1,330.0,0.2,264.0,170.48,93.52,UPI,New
+2025-02-16,West,Monitor,Electronics,5,260.0,0.1,1170.0,891.94,278.06,UPI,New
+2025-02-17,South,Keyboard,Accessories,1,48.0,0.03,46.56,34.11,12.45,Debit Card,Returning
+2025-02-17,West,Mouse,Accessories,1,28.0,0.08,25.76,20.12,5.64,Credit Card,New
+2025-02-17,East,Keyboard,Accessories,4,48.0,0.1,172.8,140.55,32.25,UPI,New
+2025-02-17,North,Monitor,Electronics,7,260.0,0.17,1510.6,936.82,573.78,Debit Card,New
+2025-02-18,West,Smartphone,Electronics,6,510.0,0.15,2601.0,2038.05,562.95,Cash,New
+2025-02-18,West,Laptop,Electronics,1,720.0,0.11,640.8,461.08,179.72,UPI,Returning
+2025-02-18,North,Smartphone,Electronics,5,510.0,0.17,2116.5,1346.38,770.12,Cash,New
+2025-02-19,North,Laptop,Electronics,2,720.0,0.17,1195.2,784.52,410.68,UPI,Returning
+2025-02-19,North,Mouse,Accessories,6,28.0,0.04,161.28,109.03,52.25,Credit Card,Returning
+2025-02-19,North,Mouse,Accessories,1,28.0,0.18,22.96,16.64,6.32,Credit Card,New
+2025-02-19,South,Keyboard,Accessories,7,48.0,0.21,265.44,187.28,78.16,Credit Card,Returning
+2025-02-20,South,Keyboard,Accessories,4,48.0,0.08,176.64,109.77,66.87,Debit Card,New
+2025-02-21,North,Laptop,Electronics,5,720.0,0.11,3204.0,2305.02,898.98,Credit Card,New
+2025-02-21,East,Laptop,Electronics,3,720.0,0.04,2073.6,1373.83,699.77,UPI,Returning
+2025-02-22,North,Smartphone,Electronics,3,510.0,0.17,1269.9,942.48,327.42,UPI,New
+2025-02-22,East,Laptop,Electronics,6,720.0,0.1,3888.0,2874.2,1013.8,Credit Card,New
+2025-02-23,West,Monitor,Electronics,7,260.0,0.18,1492.4,1028.63,463.77,Credit Card,New
+2025-02-23,East,Monitor,Electronics,2,260.0,0.18,426.4,265.43,160.97,UPI,New
+2025-02-24,North,Laptop,Electronics,1,720.0,0.12,633.6,418.84,214.76,Credit Card,Returning
+2025-02-24,South,Monitor,Electronics,6,260.0,0.16,1310.4,985.12,325.28,UPI,Returning
+2025-02-24,West,Keyboard,Accessories,7,48.0,0.19,272.16,207.77,64.39,Credit Card,New
+2025-02-24,East,Keyboard,Accessories,3,48.0,0.03,139.68,95.4,44.28,UPI,New
+2025-02-25,West,Monitor,Electronics,3,260.0,0.08,717.6,488.15,229.45,Debit Card,New
+2025-02-25,East,Headphones,Accessories,2,85.0,0.18,139.4,99.07,40.33,UPI,New
+2025-02-25,West,Headphones,Accessories,7,85.0,0.1,535.5,351.1,184.4,UPI,New
+2025-02-25,East,Keyboard,Accessories,7,48.0,0.16,282.24,219.58,62.66,UPI,New
+2025-02-25,South,Headphones,Accessories,5,85.0,0.16,357.0,286.95,70.05,UPI,New
+2025-02-25,North,Smartphone,Electronics,3,510.0,0.08,1407.6,1015.82,391.78,UPI,New
+2025-02-26,South,Headphones,Accessories,6,85.0,0.01,504.9,367.82,137.08,Debit Card,New
+2025-02-26,North,Smartphone,Electronics,3,510.0,0.06,1438.2,1094.43,343.77,Debit Card,Returning
+2025-02-26,South,Laptop,Electronics,2,720.0,0.2,1152.0,870.44,281.56,Credit Card,Returning
+2025-02-27,South,Monitor,Electronics,2,260.0,0.06,488.8,381.93,106.87,Credit Card,New
+2025-02-27,North,Tablet,Electronics,3,330.0,0.1,891.0,585.59,305.41,Credit Card,New
+2025-02-27,East,Laptop,Electronics,3,720.0,0.09,1965.6,1331.4,634.2,Debit Card,New
+2025-02-27,West,Headphones,Accessories,2,85.0,0.2,136.0,89.96,46.04,UPI,Returning
+2025-02-28,East,Smartphone,Electronics,7,510.0,0.16,2998.8,2413.82,584.98,UPI,New
+2025-02-28,North,Smartphone,Electronics,6,510.0,0.13,2662.2,2091.29,570.91,Credit Card,New
+2025-02-28,South,Tablet,Electronics,7,330.0,0.19,1871.1,1531.4,339.7,UPI,New
+2025-03-01,East,Tablet,Electronics,19,330.0,0.08,5768.4,4522.29,1246.11,UPI,Returning
+2025-03-01,East,Headphones,Accessories,1,85.0,0.02,83.3,51.75,31.55,Debit Card,Returning
+2025-03-01,West,Tablet,Electronics,4,330.0,0.1,1188.0,905.17,282.83,Debit Card,New
+2025-03-01,North,Headphones,Accessories,7,85.0,0.12,523.6,379.44,144.16,UPI,New
+2025-03-02,North,Headphones,Accessories,6,85.0,0.0,510.0,378.36,131.64,Debit Card,New
+2025-03-02,South,Smartphone,Electronics,7,510.0,0.04,3427.2,2772.02,655.18,Credit Card,New
+2025-03-03,South,Keyboard,Accessories,7,48.0,0.14,288.96,220.54,68.42,Debit Card,New
+2025-03-03,East,Monitor,Electronics,4,260.0,0.12,915.2,592.94,322.26,UPI,New
+2025-03-03,West,Headphones,Accessories,4,85.0,0.06,319.6,221.59,98.01,Debit Card,New
+2025-03-04,West,Mouse,Accessories,2,28.0,0.17,46.48,29.57,16.91,UPI,Returning
+2025-03-04,North,Laptop,Electronics,5,720.0,0.0,3600.0,2674.52,925.48,UPI,New
+2025-03-05,North,Keyboard,Accessories,5,48.0,0.14,206.4,143.02,63.38,UPI,Returning
+2025-03-05,South,Mouse,Accessories,2,28.0,0.07,52.08,42.58,9.5,UPI,New
+2025-03-06,North,Keyboard,Accessories,2,48.0,0.2,76.8,50.45,26.35,UPI,New
+2025-03-06,South,Monitor,Electronics,7,260.0,0.13,1583.4,1130.54,452.86,UPI,Returning
+2025-03-07,West,Keyboard,Accessories,6,48.0,0.21,227.52,170.31,57.21,Cash,New
+2025-03-07,South,Mouse,Accessories,2,28.0,0.02,54.88,44.19,10.69,UPI,New
+2025-03-07,North,Headphones,Accessories,3,85.0,0.09,232.05,144.34,87.71,UPI,Returning
+2025-03-07,South,Keyboard,Accessories,4,48.0,0.05,182.4,116.52,65.88,UPI,New
+2025-03-07,North,Laptop,Electronics,6,720.0,0.03,4190.4,2670.42,1519.98,UPI,Returning
+2025-03-07,North,Mouse,Accessories,2,28.0,0.05,53.2,39.52,13.68,Cash,Returning
+2025-03-08,West,Smartphone,Electronics,2,510.0,0.11,907.8,597.46,310.34,Debit Card,New
+2025-03-08,West,Laptop,Electronics,5,720.0,0.03,3492.0,2716.11,775.89,UPI,Returning
+2025-03-08,West,Keyboard,Accessories,1,48.0,0.14,41.28,31.85,9.43,UPI,Returning
+2025-03-08,South,Keyboard,Accessories,3,48.0,0.02,141.12,96.36,44.76,Debit Card,Returning
+2025-03-09,South,Laptop,Electronics,4,720.0,0.05,2736.0,1875.21,860.79,Credit Card,New
+2025-03-10,West,Headphones,Accessories,2,85.0,0.05,161.5,119.89,41.61,UPI,Returning
+2025-03-10,North,Smartphone,Electronics,1,510.0,0.21,402.9,276.29,126.61,Credit Card,New
+2025-03-10,West,Monitor,Electronics,6,260.0,0.09,1419.6,999.34,420.26,Debit Card,New
+2025-03-10,North,Tablet,Electronics,7,330.0,0.11,2055.9,1629.95,425.95,UPI,New
+2025-03-10,North,Smartphone,Electronics,5,510.0,0.16,2142.0,1733.69,408.31,Credit Card,New
+2025-03-10,South,Laptop,Electronics,6,720.0,0.01,4276.8,3467.13,809.67,UPI,New
+2025-03-10,East,Headphones,Accessories,6,85.0,0.19,413.1,334.72,78.38,,New
+2025-03-10,South,Smartphone,Electronics,7,510.0,0.07,3320.1,2421.56,898.54,UPI,New
+2025-03-11,East,Headphones,Accessories,4,85.0,0.14,292.4,195.01,97.39,Cash,New
+2025-03-11,West,Monitor,Electronics,5,260.0,0.03,1261.0,824.01,436.99,UPI,Returning
+2025-03-12,East,Keyboard,Accessories,4,48.0,0.14,165.12,121.04,44.08,UPI,New
+2025-03-12,East,Monitor,Electronics,3,260.0,0.05,741.0,600.64,140.36,UPI,New
+2025-03-13,North,Tablet,Electronics,5,330.0,0.06,1551.0,1052.3,498.7,UPI,New
+2025-03-13,South,Headphones,Accessories,4,85.0,0.09,309.4,225.25,84.15,Credit Card,New
+2025-03-13,North,Monitor,Electronics,6,260.0,0.1,1404.0,920.5,483.5,UPI,New
+2025-03-13,North,Smartphone,Electronics,3,510.0,0.2,1224.0,933.89,290.11,Credit Card,Returning
+2025-03-13,South,Smartphone,Electronics,6,510.0,0.05,2907.0,2199.18,707.82,Debit Card,New
+2025-03-13,South,Laptop,Electronics,1,720.0,0.2,576.0,378.84,197.16,Credit Card,Returning
+2025-03-13,North,Monitor,Electronics,4,260.0,0.22,811.2,538.95,272.25,UPI,Returning
+2025-03-15,North,Smartphone,Electronics,2,510.0,0.14,877.2,708.76,168.44,UPI,Returning
+2025-03-15,East,Tablet,Electronics,5,330.0,0.18,1353.0,964.32,388.68,Debit Card,New
+2025-03-15,North,Keyboard,Accessories,1,48.0,0.09,43.68,31.61,12.07,Debit Card,Returning
+2025-03-15,North,Headphones,Accessories,6,85.0,0.16,428.4,346.94,81.46,Credit Card,Returning
+2025-03-15,East,Tablet,Electronics,2,330.0,0.02,646.8,441.73,205.07,Debit Card,New
+2025-03-16,South,Laptop,Electronics,3,720.0,0.05,2052.0,1559.49,492.51,Credit Card,Returning
+2025-03-17,South,Headphones,Accessories,2,85.0,0.12,149.6,109.85,39.75,Cash,Returning
+2025-03-17,South,Keyboard,Accessories,7,48.0,0.02,329.28,206.8,122.48,Cash,New
+2025-03-17,South,Tablet,Electronics,5,330.0,0.12,1452.0,1118.35,333.65,Credit Card,Returning
+2025-03-18,South,Keyboard,Accessories,4,48.0,0.16,161.28,108.96,52.32,Credit Card,Returning
+2025-03-18,South,Smartphone,Electronics,4,510.0,0.2,1632.0,1091.05,540.95,Credit Card,New
+2025-03-18,East,Smartphone,Electronics,3,510.0,0.05,1453.5,935.7,517.8,UPI,Returning
+2025-03-18,North,Mouse,Accessories,6,28.0,0.13,146.16,93.66,52.5,UPI,Returning
+2025-03-19,North,Smartphone,Electronics,2,510.0,0.11,907.8,708.41,199.39,Debit Card,New
+2025-03-19,South,Keyboard,Accessories,1,48.0,0.06,45.12,34.12,11.0,Credit Card,New
+2025-03-19,West,Smartphone,Electronics,1,510.0,0.03,494.7,316.44,178.26,Debit Card,New
+2025-03-19,West,Smartphone,Electronics,2,510.0,0.05,969.0,636.92,332.08,Debit Card,New
+2025-03-19,West,Headphones,Accessories,4,85.0,0.01,336.6,241.2,95.4,Credit Card,New
+2025-03-20,West,Keyboard,Accessories,4,48.0,0.18,157.44,98.24,59.2,Debit Card,Returning
+2025-03-20,East,Headphones,Accessories,7,85.0,0.01,589.05,374.43,214.62,Credit Card,Returning
+2025-03-20,North,Keyboard,Accessories,7,48.0,0.14,288.96,220.94,68.02,Credit Card,New
+2025-03-20,South,Headphones,Accessories,3,85.0,0.05,242.25,194.58,47.67,UPI,New
+2025-03-20,South,Mouse,Accessories,3,28.0,0.03,81.48,66.02,15.46,Credit Card,New
+2025-03-21,North,Smartphone,Electronics,4,510.0,0.17,1693.2,1182.77,510.43,Debit Card,New
+2025-03-21,East,Smartphone,Electronics,2,510.0,0.01,1009.8,709.95,299.85,Credit Card,New
+2025-03-21,East,Headphones,Accessories,3,85.0,0.18,209.1,140.26,68.84,UPI,New
+2025-03-21,West,Smartphone,Electronics,3,510.0,0.01,1514.7,961.44,553.26,Cash,Returning
+2025-03-22,East,Monitor,Electronics,1,260.0,0.05,247.0,173.67,73.33,Credit Card,New
+2025-03-22,South,Keyboard,Accessories,4,48.0,0.16,161.28,115.7,45.58,Debit Card,Returning
+2025-03-22,North,Keyboard,Accessories,4,48.0,0.05,182.4,119.86,62.54,UPI,Returning
+2025-03-22,East,Laptop,Electronics,6,720.0,0.06,4060.8,3066.64,994.16,UPI,New
+2025-03-24,West,Mouse,Accessories,5,28.0,0.17,116.2,78.58,37.62,Debit Card,Returning
+2025-03-24,North,Keyboard,Accessories,7,48.0,0.21,265.44,173.85,91.59,Credit Card,Returning
+2025-03-24,East,Monitor,Electronics,3,260.0,0.04,748.8,587.32,161.48,Cash,New
+2025-03-24,West,Keyboard,Accessories,7,48.0,0.04,322.56,249.91,72.65,Credit Card,New
+2025-03-24,North,Laptop,Electronics,2,720.0,0.12,1267.2,811.21,455.99,UPI,Returning
+2025-03-25,North,Smartphone,Electronics,5,510.0,0.22,1989.0,1587.32,401.68,UPI,New
+2025-03-25,West,Laptop,Electronics,2,720.0,0.19,1166.4,854.39,312.01,Credit Card,New
+2025-03-26,East,Smartphone,Electronics,3,510.0,0.03,1484.1,938.71,545.39,UPI,New
+2025-03-26,North,Tablet,Electronics,7,330.0,0.05,2194.5,1607.68,586.82,UPI,Returning
+2025-03-27,West,Laptop,Electronics,4,720.0,0.07,2678.4,1818.67,859.73,Credit Card,New
+2025-03-27,North,Tablet,Electronics,3,330.0,0.17,821.7,554.91,266.79,UPI,Returning
+2025-03-27,East,Smartphone,Electronics,30,510.0,0.01,15147.0,11239.15,3907.85,UPI,New
+2025-03-27,West,Smartphone,Electronics,5,510.0,0.21,2014.5,1272.53,741.97,UPI,New
+2025-03-27,North,Headphones,Accessories,1,85.0,0.07,79.05,64.07,14.98,Cash,New
+2025-03-27,South,Headphones,Accessories,7,85.0,0.1,535.5,434.79,100.71,Credit Card,New
+2025-03-27,West,Monitor,Electronics,5,260.0,0.1,1170.0,751.06,418.94,UPI,New
+2025-03-28,West,Headphones,Accessories,2,85.0,0.1,153.0,123.92,29.08,Cash,New
+2025-03-28,North,Laptop,Electronics,1,720.0,0.09,655.2,440.82,214.38,Credit Card,New
+2025-03-28,South,Mouse,Accessories,4,28.0,0.07,104.16,65.01,39.15,Credit Card,New
+2025-03-28,North,Headphones,Accessories,6,85.0,0.2,408.0,306.15,101.85,Debit Card,New
+2025-03-28,North,Smartphone,Electronics,2,510.0,0.22,795.6,601.31,194.29,Debit Card,Returning
+2025-03-28,West,Mouse,Accessories,3,28.0,0.01,83.16,54.13,29.03,Credit Card,New
+2025-03-29,South,Headphones,Accessories,5,85.0,0.12,374.0,268.65,105.35,Cash,New
+2025-03-29,North,Keyboard,Accessories,3,48.0,0.1,129.6,101.65,27.95,UPI,Returning
+2025-03-30,West,Headphones,Accessories,2,85.0,0.18,139.4,110.51,28.89,Debit Card,Returning
+2025-03-30,West,Laptop,Electronics,2,720.0,0.08,1324.8,1011.8,313.0,Debit Card,New
+2025-03-30,North,Keyboard,Accessories,2,48.0,0.02,94.08,64.56,29.52,UPI,Returning
+2025-03-31,East,Smartphone,Electronics,3,510.0,0.21,1208.7,869.13,339.57,Debit Card,New
+2025-03-31,South,Mouse,Accessories,1,28.0,0.11,24.92,17.93,6.99,Credit Card,Returning
+2025-03-31,West,Tablet,Electronics,5,330.0,0.18,1353.0,960.88,392.12,UPI,New
+2025-04-01,South,Smartphone,Electronics,1,510.0,0.01,504.9,357.57,147.33,Debit Card,Returning
+2025-04-01,North,Keyboard,Accessories,2,48.0,0.12,84.48,67.98,16.5,Debit Card,New
+2025-04-02,North,Monitor,Electronics,5,260.0,0.08,1196.0,763.59,432.41,Cash,New
+2025-04-02,South,Headphones,Accessories,2,85.0,0.2,136.0,107.35,28.65,Debit Card,New
+2025-04-02,South,Mouse,Accessories,5,28.0,0.19,113.4,72.13,41.27,Debit Card,Returning
+2025-04-03,East,Smartphone,Electronics,2,510.0,0.19,826.2,558.21,267.99,UPI,Returning
+2025-04-03,South,Smartphone,Electronics,1,510.0,0.02,499.8,334.66,165.14,Cash,New
+2025-04-04,North,Keyboard,Accessories,4,48.0,0.15,163.2,125.41,37.79,Cash,New
+2025-04-04,West,Laptop,Electronics,1,720.0,0.13,626.4,452.41,173.99,Credit Card,Returning
+2025-04-04,North,Mouse,Accessories,3,28.0,0.16,70.56,54.54,16.02,Debit Card,Returning
+2025-04-05,South,Mouse,Accessories,4,28.0,0.06,105.28,73.25,32.03,Cash,Returning
+2025-04-05,East,Tablet,Electronics,1,330.0,0.02,323.4,207.59,115.81,UPI,Returning
+2025-04-05,North,Headphones,Accessories,6,85.0,0.01,504.9,328.44,176.46,Cash,New
+2025-04-05,North,Monitor,Electronics,5,260.0,0.2,1040.0,788.45,251.55,Debit Card,New
+2025-04-05,North,Mouse,Accessories,6,28.0,0.0,168.0,131.17,36.83,Cash,New
+2025-04-05,East,Tablet,Electronics,4,330.0,0.01,1306.8,920.79,386.01,UPI,Returning
+2025-04-06,West,Mouse,Accessories,5,28.0,0.08,128.8,83.78,45.02,UPI,New
+2025-04-07,West,Mouse,Accessories,5,28.0,0.13,121.8,91.41,30.39,Debit Card,Returning
+2025-04-07,South,Headphones,Accessories,6,85.0,0.05,484.5,384.61,99.89,Debit Card,Returning
+2025-04-07,West,Laptop,Electronics,7,720.0,0.02,4939.2,3701.84,1237.36,UPI,Returning
+2025-04-08,East,Keyboard,Accessories,1,48.0,0.01,47.52,34.02,13.5,Credit Card,Returning
+2025-04-10,West,Headphones,Accessories,5,85.0,0.2,340.0,239.63,100.37,Cash,New
+2025-04-10,North,Smartphone,Electronics,1,510.0,0.21,402.9,311.67,91.23,Debit Card,New
+2025-04-10,East,Headphones,Accessories,2,85.0,0.11,151.3,97.99,53.31,UPI,New
+2025-04-10,North,Laptop,Electronics,2,720.0,0.09,1310.4,892.92,417.48,Credit Card,New
+2025-04-10,North,Tablet,Electronics,1,330.0,0.16,277.2,191.05,86.15,Credit Card,Returning
+2025-04-10,South,Smartphone,Electronics,2,510.0,0.1,918.0,589.64,328.36,Credit Card,New
+2025-04-10,East,Monitor,Electronics,5,260.0,0.12,1144.0,928.72,215.28,Credit Card,Returning
+2025-04-11,North,Monitor,Electronics,3,260.0,0.14,670.8,522.29,148.51,Debit Card,New
+2025-04-11,East,Mouse,Accessories,6,28.0,0.13,146.16,113.73,32.43,Debit Card,New
+2025-04-11,South,Monitor,Electronics,2,260.0,0.19,421.2,326.93,94.27,UPI,New
+2025-04-11,West,Smartphone,Electronics,3,510.0,0.21,1208.7,855.53,353.17,Credit Card,New
+2025-04-11,East,Mouse,Accessories,6,28.0,0.04,161.28,112.59,48.69,Credit Card,New
+2025-04-11,East,Laptop,Electronics,4,720.0,0.03,2793.6,2031.78,761.82,Credit Card,New
+2025-04-12,East,Headphones,Accessories,1,85.0,0.13,73.95,47.45,26.5,UPI,New
+2025-04-12,North,Laptop,Electronics,3,720.0,0.07,2008.8,1630.9,377.9,Debit Card,Returning
+2025-04-12,East,Monitor,Electronics,4,260.0,0.19,842.4,596.39,246.01,UPI,Returning
+2025-04-13,South,Laptop,Electronics,7,720.0,0.13,4384.8,3548.98,835.82,Credit Card,New
+2025-04-13,West,Monitor,Electronics,6,260.0,0.19,1263.6,857.34,406.26,UPI,New
+2025-04-13,East,Mouse,Accessories,1,28.0,0.02,27.44,20.86,6.58,Debit Card,Returning
+2025-04-13,West,Smartphone,Electronics,5,510.0,0.04,2448.0,1672.61,775.39,Debit Card,Returning
+2025-04-13,North,Tablet,Electronics,7,330.0,0.05,2194.5,1593.83,600.67,UPI,Returning
+2025-04-14,East,Laptop,Electronics,3,720.0,0.05,2052.0,1348.86,703.14,UPI,New
+2025-04-14,South,Smartphone,Electronics,5,510.0,0.05,2422.5,1708.21,714.29,Credit Card,New
+2025-04-14,East,Laptop,Electronics,7,720.0,0.22,3931.2,2881.02,1050.18,UPI,Returning
+2025-04-14,East,Headphones,Accessories,5,85.0,0.16,357.0,264.49,92.51,Credit Card,New
+2025-04-14,East,Laptop,Electronics,5,720.0,0.03,3492.0,2186.75,1305.25,UPI,New
+2025-04-15,North,Mouse,Accessories,7,28.0,0.16,164.64,134.65,29.99,UPI,Returning
+2025-04-15,North,Mouse,Accessories,7,28.0,0.13,170.52,119.45,51.07,Debit Card,New
+2025-04-15,South,Laptop,Electronics,7,720.0,0.04,4838.4,3181.59,1656.81,Cash,Returning
+2025-04-15,East,Smartphone,Electronics,4,510.0,0.18,1672.8,1168.57,504.23,Debit Card,New
+2025-04-15,East,Laptop,Electronics,2,720.0,0.02,1411.2,996.56,414.64,Credit Card,New
+2025-04-16,West,Laptop,Electronics,2,720.0,0.1,1296.0,882.15,413.85,UPI,New
+2025-04-16,West,Headphones,Accessories,4,85.0,0.16,285.6,207.37,78.23,UPI,Returning
+2025-04-16,North,Tablet,Electronics,4,330.0,0.21,1042.8,823.87,218.93,Debit Card,Returning
+2025-04-16,East,Mouse,Accessories,6,28.0,0.16,141.12,107.56,33.56,Credit Card,New
+2025-04-17,North,Keyboard,Accessories,2,48.0,0.05,91.2,69.38,21.82,UPI,New
+2025-04-19,West,Headphones,Accessories,4,85.0,0.14,292.4,195.19,97.21,Debit Card,Returning
+2025-04-19,North,Headphones,Accessories,6,85.0,0.13,443.7,303.54,140.16,UPI,Returning
+2025-04-19,East,Keyboard,Accessories,6,48.0,0.08,264.96,188.18,76.78,UPI,New
+2025-04-20,South,Smartphone,Electronics,4,510.0,0.01,2019.6,1490.31,529.29,Debit Card,New
+2025-04-20,East,Keyboard,Accessories,3,48.0,0.06,135.36,100.24,35.12,Cash,New
+2025-04-20,North,Laptop,Electronics,3,720.0,0.03,2095.2,1406.86,688.34,Credit Card,New
+2025-04-21,North,Mouse,Accessories,1,28.0,0.1,25.2,18.98,6.22,Credit Card,New
+2025-04-21,South,Mouse,Accessories,7,28.0,0.21,154.84,121.39,33.45,Credit Card,Returning
+2025-04-21,North,Smartphone,Electronics,4,510.0,0.08,1876.8,1166.14,710.66,Debit Card,Returning
+2025-04-21,South,Laptop,Electronics,4,720.0,0.17,2390.4,1750.06,640.34,UPI,New
+2025-04-22,South,Smartphone,Electronics,3,510.0,0.16,1285.2,836.46,448.74,UPI,New
+2025-04-22,East,Smartphone,Electronics,1,510.0,0.04,489.6,356.1,133.5,UPI,New
+2025-04-23,North,Laptop,Electronics,5,720.0,0.01,3564.0,2774.11,789.89,Debit Card,New
+2025-04-23,South,Smartphone,Electronics,3,510.0,0.16,1285.2,1022.75,262.45,UPI,Returning
+2025-04-23,West,Laptop,Electronics,5,720.0,0.05,3420.0,2787.27,632.73,Cash,New
+2025-04-23,South,Mouse,Accessories,5,28.0,0.1,126.0,81.68,44.32,Debit Card,New
+2025-04-23,North,Headphones,Accessories,1,85.0,0.15,72.25,51.65,20.6,Debit Card,Returning
+2025-04-23,North,Smartphone,Electronics,2,510.0,0.04,979.2,774.39,204.81,Credit Card,New
+2025-04-24,West,Mouse,Accessories,6,28.0,0.09,152.88,116.72,36.16,UPI,New
+2025-04-24,East,Laptop,Electronics,1,720.0,0.06,676.8,502.32,174.48,UPI,Returning
+2025-04-25,South,Laptop,Electronics,2,720.0,0.09,1310.4,974.86,335.54,UPI,Returning
+2025-04-25,West,Laptop,Electronics,1,720.0,0.09,655.2,469.02,186.18,UPI,Returning
+2025-04-26,East,Monitor,Electronics,3,260.0,0.11,694.2,568.64,125.56,Debit Card,New
+2025-04-26,South,Keyboard,Accessories,6,48.0,0.14,247.68,177.99,69.69,Debit Card,New
+2025-04-26,West,Monitor,Electronics,2,260.0,0.14,447.2,308.57,138.63,UPI,New
+2025-04-26,South,Tablet,Electronics,4,330.0,0.1,1188.0,850.74,337.26,Cash,Returning
+2025-04-27,West,Keyboard,Accessories,5,48.0,0.02,235.2,183.25,51.95,Cash,New
+2025-04-27,North,Monitor,Electronics,7,260.0,0.21,1437.8,974.34,463.46,Credit Card,New
+2025-04-27,West,Laptop,Electronics,7,720.0,0.06,4737.6,3536.57,1201.03,Debit Card,New
+2025-04-27,East,Laptop,Electronics,4,720.0,0.05,2736.0,2193.01,542.99,Debit Card,Returning
+2025-04-28,South,Tablet,Electronics,6,330.0,0.01,1960.2,1411.82,548.38,UPI,New
+2025-04-28,West,Laptop,Electronics,1,720.0,0.13,626.4,488.83,137.57,Cash,New
+2025-04-28,East,Monitor,Electronics,5,260.0,0.15,1105.0,809.37,295.63,Credit Card,New
+2025-04-28,North,Laptop,Electronics,1,720.0,0.01,712.8,460.83,251.97,UPI,New
+2025-04-28,West,Keyboard,Accessories,1,48.0,0.05,45.6,31.06,14.54,UPI,New
+2025-04-28,South,Laptop,Electronics,6,720.0,0.06,4060.8,2975.81,1084.99,UPI,Returning
+2025-04-29,South,Monitor,Electronics,6,260.0,0.02,1528.8,1020.1,508.7,UPI,New
+2025-04-30,North,Keyboard,Accessories,2,48.0,0.21,75.84,57.36,18.48,Credit Card,New
+2025-04-30,West,Smartphone,Electronics,6,510.0,0.08,2815.2,2195.35,619.85,Credit Card,Returning
+2025-05-01,North,Laptop,Electronics,5,720.0,0.19,2916.0,2271.58,644.42,Cash,New
+2025-05-01,East,Laptop,Electronics,32,720.0,0.16,19353.6,12328.15,7025.45,Credit Card,New
+2025-05-01,South,Laptop,Electronics,2,720.0,0.19,1166.4,723.75,442.65,Debit Card,New
+2025-05-01,West,Smartphone,Electronics,2,510.0,0.1,918.0,700.42,217.58,Credit Card,Returning
+2025-05-02,East,Laptop,Electronics,4,720.0,0.06,2707.2,2195.14,512.06,Credit Card,New
+2025-05-03,West,Headphones,Accessories,5,85.0,0.12,374.0,241.54,132.46,Debit Card,New
+2025-05-03,East,Keyboard,Accessories,5,48.0,0.06,225.6,145.47,80.13,UPI,Returning
+2025-05-03,West,Headphones,Accessories,4,85.0,0.05,323.0,239.18,83.82,Cash,New
+2025-05-04,West,Headphones,Accessories,6,85.0,0.07,474.3,322.08,152.22,Cash,New
+2025-05-04,West,Laptop,Electronics,2,720.0,0.02,1411.2,1136.82,274.38,Credit Card,New
+2025-05-05,West,Smartphone,Electronics,7,510.0,0.04,3427.2,2803.75,623.45,UPI,Returning
+2025-05-05,North,Headphones,Accessories,5,85.0,0.15,361.25,271.69,89.56,UPI,New
+2025-05-05,West,Headphones,Accessories,7,85.0,0.18,487.9,380.98,106.92,UPI,New
+2025-05-05,West,Keyboard,Accessories,24,48.0,0.2,921.6,588.19,333.41,Debit Card,New
+2025-05-05,West,Monitor,Electronics,3,260.0,0.21,616.2,475.82,140.38,UPI,Returning
+2025-05-06,South,Tablet,Electronics,1,330.0,0.15,280.5,187.97,92.53,Credit Card,Returning
+2025-05-06,East,Keyboard,Accessories,6,48.0,0.11,256.32,189.69,66.63,UPI,Returning
+2025-05-06,South,Keyboard,Accessories,4,48.0,0.11,170.88,130.21,40.67,UPI,New
+2025-05-06,North,Monitor,Electronics,2,260.0,0.05,494.0,342.51,151.49,Credit Card,New
+2025-05-06,South,Mouse,Accessories,3,28.0,0.19,68.04,44.28,23.76,Credit Card,Returning
+2025-05-07,East,Smartphone,Electronics,4,510.0,0.06,1917.6,1491.72,425.88,Debit Card,Returning
+2025-05-07,North,Keyboard,Accessories,1,48.0,0.1,43.2,33.7,9.5,Credit Card,New
+2025-05-07,North,Tablet,Electronics,4,330.0,0.04,1267.2,803.14,464.06,Debit Card,Returning
+2025-05-07,West,Laptop,Electronics,7,720.0,,4384.8,2888.17,1496.63,Cash,Returning
+2025-05-07,West,Laptop,Electronics,6,720.0,0.05,4104.0,3243.69,860.31,Credit Card,New
+2025-05-08,North,Smartphone,Electronics,6,510.0,0.16,2570.4,1693.91,876.49,Debit Card,New
+2025-05-08,West,Tablet,Electronics,3,330.0,0.16,831.6,549.47,282.13,Credit Card,New
+2025-05-08,South,Mouse,Accessories,5,28.0,0.05,133.0,87.98,45.02,UPI,New
+2025-05-10,West,Mouse,Accessories,7,28.0,0.11,174.44,127.61,46.83,Credit Card,Returning
+2025-05-10,West,Mouse,Accessories,6,28.0,0.14,144.48,98.14,46.34,Credit Card,New
+2025-05-10,East,Laptop,Electronics,1,720.0,0.0,720.0,552.25,167.75,Debit Card,New
+2025-05-11,South,Monitor,Electronics,2,260.0,0.06,488.8,382.24,106.56,UPI,New
+2025-05-11,East,Smartphone,Electronics,1,510.0,0.11,453.9,310.68,143.22,Credit Card,Returning
+2025-05-12,West,Headphones,Accessories,7,85.0,0.13,517.65,409.48,108.17,Cash,New
+2025-05-12,West,Monitor,Electronics,2,260.0,0.16,436.8,285.86,150.94,Debit Card,Returning
+2025-05-13,South,Mouse,Accessories,1,28.0,0.03,27.16,21.93,5.23,Debit Card,New
+2025-05-13,West,Mouse,Accessories,2,28.0,0.14,48.16,30.56,17.6,UPI,New
+2025-05-14,South,Laptop,Electronics,6,720.0,0.09,3931.2,2915.48,1015.72,UPI,New
+2025-05-14,North,Monitor,Electronics,2,260.0,0.11,462.8,369.32,93.48,UPI,New
+2025-05-14,North,Laptop,Electronics,1,720.0,0.09,655.2,429.94,225.26,Debit Card,New
+2025-05-14,West,Mouse,Accessories,3,28.0,0.18,68.88,47.18,21.7,UPI,Returning
+2025-05-14,East,Monitor,Electronics,7,260.0,0.12,1601.6,1216.62,384.98,Debit Card,Returning
+2025-05-15,South,Headphones,Accessories,2,85.0,0.07,158.1,105.74,52.36,Credit Card,Returning
+2025-05-15,West,Keyboard,Accessories,7,48.0,0.17,278.88,217.27,61.61,UPI,New
+2025-05-16,East,Tablet,Electronics,7,330.0,0.21,1824.9,1367.93,456.97,Debit Card,Returning
+2025-05-16,North,Keyboard,Accessories,2,48.0,0.18,78.72,62.63,16.09,UPI,Returning
+2025-05-16,South,Keyboard,Accessories,3,48.0,0.02,141.12,107.02,34.1,UPI,Returning
+2025-05-17,West,Laptop,Electronics,3,720.0,0.2,1728.0,1409.92,318.08,UPI,Returning
+2025-05-18,West,Monitor,Electronics,3,260.0,0.17,647.4,490.98,156.42,Credit Card,New
+2025-05-18,West,Headphones,Accessories,3,85.0,0.02,249.9,171.04,78.86,Credit Card,Returning
+2025-05-19,East,Laptop,Electronics,5,720.0,0.03,3492.0,2218.08,1273.92,Credit Card,New
+2025-05-19,North,Keyboard,Accessories,5,48.0,0.14,206.4,146.49,59.91,Credit Card,Returning
+2025-05-20,East,Mouse,Accessories,4,28.0,0.18,91.84,60.56,31.28,Cash,New
+2025-05-20,East,Mouse,Accessories,6,28.0,0.01,166.32,130.62,35.7,Debit Card,New
+2025-05-21,South,Smartphone,Electronics,6,510.0,0.17,2539.8,1888.26,651.54,UPI,New
+2025-05-21,South,Keyboard,Accessories,7,48.0,0.12,295.68,236.68,59.0,Debit Card,Returning
+2025-05-21,West,Mouse,Accessories,3,28.0,0.11,74.76,47.31,27.45,Credit Card,New
+2025-05-21,North,Monitor,Electronics,1,260.0,0.05,247.0,174.79,72.21,Credit Card,New
+2025-05-22,West,Headphones,Accessories,3,85.0,0.18,209.1,138.11,70.99,Credit Card,Returning
+2025-05-23,North,Smartphone,Electronics,2,510.0,0.12,897.6,633.8,263.8,Credit Card,Returning
+2025-05-23,North,Tablet,Electronics,4,330.0,0.21,1042.8,727.47,315.33,Credit Card,Returning
+2025-05-25,North,Smartphone,Electronics,6,510.0,0.05,2907.0,2052.36,854.64,Credit Card,New
+2025-05-25,South,Monitor,Electronics,7,260.0,0.12,1601.6,1137.36,464.24,Cash,New
+2025-05-25,West,Laptop,Electronics,6,720.0,0.03,4190.4,3234.93,955.47,Credit Card,New
+2025-05-26,South,Keyboard,Accessories,7,48.0,0.19,272.16,198.01,74.15,Debit Card,Returning
+2025-05-26,West,Tablet,Electronics,4,330.0,0.21,1042.8,698.4,344.4,Credit Card,Returning
+2025-05-26,West,Keyboard,Accessories,4,48.0,0.03,186.24,136.07,50.17,UPI,New
+2025-05-26,North,Tablet,Electronics,7,330.0,0.19,1871.1,1355.38,515.72,UPI,Returning
+2025-05-26,South,Tablet,Electronics,4,330.0,0.19,1069.2,672.4,396.8,Cash,Returning
+2025-05-26,West,Tablet,Electronics,1,330.0,0.2,264.0,191.07,72.93,UPI,Returning
+2025-05-26,South,Tablet,Electronics,1,330.0,0.13,287.1,231.57,55.53,Credit Card,Returning
+2025-05-27,East,Headphones,Accessories,2,85.0,0.15,144.5,91.17,53.33,Debit Card,Returning
+2025-05-28,North,Headphones,Accessories,6,85.0,0.21,402.9,327.26,75.64,Credit Card,New
+2025-05-28,West,Headphones,Accessories,7,85.0,0.05,565.25,379.83,185.42,Cash,New
+2025-05-28,North,Tablet,Electronics,2,330.0,0.02,646.8,518.11,128.69,UPI,New
+2025-05-28,South,Headphones,Accessories,2,85.0,0.13,147.9,116.64,31.26,Cash,Returning
+2025-05-28,East,Smartphone,Electronics,6,510.0,0.12,2692.8,2034.69,658.11,Credit Card,New
+2025-05-29,North,Laptop,Electronics,7,720.0,0.04,4838.4,3821.15,1017.25,Credit Card,Returning
+2025-05-29,West,Keyboard,Accessories,2,48.0,0.11,85.44,68.03,17.41,Debit Card,Returning
+2025-05-29,North,Smartphone,Electronics,3,510.0,0.13,1331.1,1039.92,291.18,UPI,New
+2025-05-29,South,Smartphone,Electronics,2,510.0,0.18,836.4,622.3,214.1,UPI,Returning
+2025-05-30,South,Tablet,Electronics,6,330.0,0.12,1742.4,1416.62,325.78,UPI,Returning
+2025-05-30,South,Mouse,Accessories,6,28.0,0.13,146.16,117.64,28.52,UPI,New
+2025-05-30,North,Smartphone,Electronics,2,510.0,0.18,836.4,584.8,251.6,Debit Card,New
+2025-05-30,North,Keyboard,Accessories,5,48.0,0.22,187.2,121.13,66.07,UPI,Returning
+2025-05-30,East,Monitor,Electronics,1,260.0,0.12,228.8,171.56,57.24,Credit Card,New
+2025-05-30,East,Smartphone,Electronics,7,510.0,0.16,2998.8,1929.72,1069.08,UPI,New
+2025-05-30,West,Keyboard,Accessories,1,48.0,0.21,37.92,30.98,6.94,Credit Card,Returning
+2025-05-31,South,Mouse,Accessories,2,28.0,0.03,54.32,43.12,11.2,UPI,New
+2025-05-31,North,Laptop,Electronics,5,720.0,0.13,3132.0,2022.39,1109.61,Credit Card,New
+2025-06-01,North,Keyboard,Accessories,3,48.0,0.12,126.72,93.55,33.17,Credit Card,Returning
+2025-06-01,West,Keyboard,Accessories,5,48.0,0.07,223.2,177.9,45.3,Credit Card,Returning
+2025-06-01,West,Monitor,Electronics,2,260.0,0.04,499.2,359.08,140.12,Cash,New
+2025-06-02,East,Keyboard,Accessories,2,48.0,0.13,83.52,60.4,23.12,UPI,New
+2025-06-02,North,Headphones,Accessories,3,85.0,0.05,242.25,193.91,48.34,Credit Card,Returning
+2025-06-02,East,Mouse,Accessories,2,28.0,0.17,46.48,32.69,13.79,Cash,New
+2025-06-03,North,Monitor,Electronics,7,260.0,0.15,1547.0,1021.73,525.27,UPI,Returning
+2025-06-03,North,Mouse,Accessories,3,28.0,0.19,68.04,47.57,20.47,Cash,New
+2025-06-03,North,Smartphone,Electronics,6,510.0,0.17,2539.8,1804.67,735.13,UPI,New
+2025-06-03,East,Mouse,Accessories,4,28.0,0.22,87.36,66.81,20.55,UPI,New
+2025-06-03,North,Headphones,Accessories,7,85.0,0.2,476.0,363.49,112.51,Debit Card,New
+2025-06-04,North,Monitor,Electronics,4,260.0,0.02,1019.2,742.81,276.39,UPI,New
+2025-06-04,West,Laptop,Electronics,1,720.0,0.01,712.8,464.67,248.13,Credit Card,Returning
+2025-06-05,South,Headphones,Accessories,4,85.0,0.11,302.6,204.45,98.15,Cash,New
+2025-06-05,East,Smartphone,Electronics,6,510.0,0.01,3029.4,1974.06,1055.34,UPI,Returning
+2025-06-05,South,Keyboard,Accessories,5,48.0,0.01,237.6,164.01,73.59,UPI,Returning
+2025-06-06,East,Tablet,Electronics,6,330.0,0.03,1920.6,1321.24,599.36,Debit Card,New
+2025-06-06,North,Mouse,Accessories,2,28.0,0.12,49.28,34.98,14.3,Debit Card,Returning
+2025-06-06,West,Smartphone,Electronics,6,510.0,0.02,2998.8,1946.21,1052.59,UPI,Returning
+2025-06-07,East,Smartphone,Electronics,3,510.0,0.04,1468.8,956.91,511.89,Debit Card,Returning
+2025-06-07,North,Tablet,Electronics,4,330.0,0.03,1280.4,887.45,392.95,Credit Card,New
+2025-06-07,North,Smartphone,Electronics,5,510.0,0.01,2524.5,1819.18,705.32,UPI,Returning
+2025-06-07,South,Mouse,Accessories,1,28.0,0.13,24.36,18.55,5.81,Debit Card,New
+2025-06-07,South,Laptop,Electronics,2,720.0,0.04,1382.4,894.11,488.29,UPI,Returning
+2025-06-08,West,Smartphone,Electronics,6,510.0,0.09,2784.6,1986.56,798.04,Credit Card,Returning
+2025-06-08,North,Headphones,Accessories,3,85.0,0.1,229.5,171.96,57.54,UPI,Returning
+2025-06-08,West,Laptop,Electronics,5,720.0,0.1,3240.0,2465.29,774.71,Credit Card,Returning
+2025-06-09,West,Keyboard,Accessories,4,48.0,0.02,188.16,139.7,48.46,Credit Card,Returning
+2025-06-09,West,Tablet,Electronics,7,330.0,0.02,2263.8,1814.17,449.63,Credit Card,New
+2025-06-09,South,Laptop,Electronics,2,720.0,0.02,1411.2,932.82,478.38,UPI,New
+2025-06-09,East,Laptop,Electronics,3,720.0,0.22,1684.8,1204.47,480.33,Credit Card,New
+2025-06-09,East,Mouse,Accessories,3,28.0,0.07,78.12,62.79,15.33,UPI,New
+2025-06-10,East,Monitor,Electronics,7,260.0,0.22,1419.6,1099.0,320.6,Debit Card,New
+2025-06-10,South,Mouse,Accessories,6,28.0,0.02,164.64,108.02,56.62,Debit Card,New
+2025-06-10,South,Laptop,Electronics,6,720.0,0.03,4190.4,2858.88,1331.52,Credit Card,New
+2025-06-10,North,Keyboard,Accessories,7,48.0,0.02,329.28,237.56,91.72,UPI,New
+2025-06-10,North,Smartphone,Electronics,2,510.0,0.22,795.6,520.7,274.9,Cash,Returning
+2025-06-11,East,Monitor,Electronics,6,260.0,0.16,1310.4,982.59,327.81,UPI,New
+2025-06-11,South,Mouse,Accessories,6,28.0,0.07,156.24,120.24,36.0,UPI,Returning
+2025-06-11,North,Monitor,Electronics,4,260.0,0.01,1029.6,826.85,202.75,Debit Card,New
+2025-06-11,East,Laptop,Electronics,4,720.0,0.02,2822.4,1768.86,1053.54,UPI,Returning
+2025-06-12,West,Monitor,Electronics,3,260.0,0.19,631.8,419.53,212.27,Credit Card,New
+2025-06-12,South,Mouse,Accessories,4,28.0,0.2,89.6,73.22,16.38,Cash,Returning
+2025-06-12,South,Keyboard,Accessories,1,48.0,0.19,38.88,30.85,8.03,Debit Card,New
+2025-06-12,North,Keyboard,Accessories,5,48.0,0.15,204.0,155.96,48.04,UPI,New
+2025-06-12,East,Smartphone,Electronics,2,510.0,0.17,846.6,624.83,221.77,Credit Card,Returning
+2025-06-13,South,Tablet,Electronics,3,330.0,0.07,920.7,717.5,203.2,UPI,New
+2025-06-13,West,Monitor,Electronics,1,260.0,0.12,228.8,175.31,53.49,Credit Card,New
+2025-06-13,East,Headphones,Accessories,2,85.0,0.22,132.6,88.19,44.41,Credit Card,Returning
+2025-06-13,East,Mouse,Accessories,6,28.0,0.06,157.92,121.04,36.88,UPI,Returning
+2025-06-13,West,Laptop,Electronics,1,720.0,0.05,684.0,500.7,183.3,UPI,New
+2025-06-13,South,Mouse,Accessories,6,28.0,0.1,151.2,116.98,34.22,Debit Card,New
+2025-06-14,North,Headphones,Accessories,1,85.0,0.13,73.95,57.83,16.12,Credit Card,New
+2025-06-15,South,Smartphone,Electronics,5,510.0,0.09,2320.5,1622.66,697.84,Debit Card,New
+2025-06-15,North,Smartphone,Electronics,3,510.0,0.21,1208.7,881.63,327.07,Cash,Returning
+2025-06-15,North,Smartphone,Electronics,7,510.0,0.1,3213.0,2537.88,675.12,UPI,New
+2025-06-15,East,Laptop,Electronics,3,720.0,0.09,1965.6,1307.59,658.01,UPI,Returning
+2025-06-15,North,Smartphone,Electronics,4,510.0,0.02,1999.2,1281.89,717.31,UPI,New
+2025-06-15,North,Monitor,Electronics,2,260.0,0.01,514.8,374.09,140.71,Debit Card,New
+2025-06-16,West,Keyboard,Accessories,4,48.0,0.04,184.32,124.9,59.42,UPI,Returning
+2025-06-16,North,Headphones,Accessories,6,85.0,0.08,469.2,327.54,141.66,UPI,Returning
+2025-06-16,East,Smartphone,Electronics,4,510.0,0.08,1876.8,1424.57,452.23,Cash,New
+2025-06-17,West,Laptop,Electronics,6,720.0,0.06,4060.8,2600.83,1459.97,Debit Card,Returning
+2025-06-17,South,Tablet,Electronics,4,330.0,0.2,1056.0,771.44,284.56,UPI,New
+2025-06-17,East,Monitor,Electronics,7,260.0,0.06,1710.8,1370.97,339.83,Credit Card,Returning
+2025-06-17,South,Headphones,Accessories,4,85.0,0.03,329.8,210.2,119.6,Debit Card,New
+2025-06-17,South,Tablet,Electronics,5,330.0,0.05,1567.5,1075.31,492.19,UPI,Returning
+2025-06-17,West,Headphones,Accessories,1,85.0,0.1,76.5,61.49,15.01,Debit Card,New
+2025-06-18,East,Laptop,Electronics,7,720.0,0.2,4032.0,2861.48,1170.52,UPI,New
+2025-06-18,North,Smartphone,Electronics,5,510.0,0.03,2473.5,1573.53,899.97,Credit Card,Returning
+2025-06-18,North,Mouse,Accessories,1,28.0,0.13,24.36,16.42,7.94,Cash,New
+2025-06-18,North,Laptop,Electronics,1,720.0,0.13,626.4,409.79,216.61,Cash,New
+2025-06-18,East,Laptop,Electronics,6,720.0,0.12,3801.6,2497.0,1304.6,Credit Card,New
+2025-06-18,East,Headphones,Accessories,5,85.0,0.07,395.25,308.6,86.65,UPI,Returning
+2025-06-19,West,Keyboard,Accessories,5,48.0,0.11,213.6,143.44,70.16,Credit Card,Returning
+2025-06-19,North,Laptop,Electronics,4,720.0,0.11,2563.2,1954.64,608.56,Credit Card,New
+2025-06-20,South,Mouse,Accessories,7,28.0,0.16,164.64,130.26,34.38,UPI,New
+2025-06-20,North,Laptop,Electronics,4,720.0,0.08,2649.6,2158.95,490.65,UPI,Returning
+2025-06-20,East,Tablet,Electronics,6,330.0,0.15,1683.0,1235.57,447.43,Debit Card,New
+2025-06-20,North,Smartphone,Electronics,5,510.0,0.14,2193.0,1608.68,584.32,UPI,Returning
+2025-06-21,East,Keyboard,Accessories,2,48.0,0.11,85.44,63.95,21.49,UPI,New
+2025-06-21,East,Tablet,Electronics,2,330.0,0.15,561.0,374.86,186.14,Credit Card,Returning
+2025-06-22,South,Mouse,Accessories,6,28.0,0.16,141.12,89.12,52.0,UPI,New
+2025-06-22,South,Keyboard,Accessories,5,48.0,0.05,228.0,157.09,70.91,UPI,New
+2025-06-22,South,Smartphone,Electronics,5,510.0,0.02,2499.0,1645.85,853.15,UPI,New
+2025-06-22,West,Monitor,Electronics,4,260.0,0.19,842.4,586.55,255.85,Credit Card,Returning
+2025-06-22,East,Smartphone,Electronics,3,510.0,0.22,1193.4,887.92,305.48,Credit Card,New
+2025-06-22,East,Keyboard,Accessories,3,48.0,0.2,115.2,88.1,27.1,UPI,New
+2025-06-22,East,Keyboard,Accessories,7,48.0,0.22,262.08,164.21,97.87,Debit Card,Returning
+2025-06-23,West,Tablet,Electronics,5,330.0,0.13,1435.5,917.16,518.34,UPI,New
+2025-06-23,West,Headphones,Accessories,4,85.0,0.09,309.4,211.83,97.57,UPI,New
+2025-06-23,North,Tablet,Electronics,7,330.0,0.08,2125.2,1730.49,394.71,Debit Card,New
+2025-06-23,South,Smartphone,Electronics,6,510.0,0.05,2907.0,2227.71,679.29,UPI,Returning
+2025-06-23,South,Keyboard,Accessories,1,48.0,0.21,37.92,24.35,13.57,UPI,Returning
+2025-06-23,West,Keyboard,Accessories,2,48.0,0.21,75.84,51.27,24.57,UPI,Returning
+2025-06-23,East,Mouse,Accessories,1,28.0,0.03,27.16,20.85,6.31,Credit Card,Returning
+2025-06-24,East,Monitor,Electronics,7,260.0,0.14,1565.2,1124.9,440.3,Debit Card,New
+2025-06-24,North,Laptop,Electronics,3,720.0,0.18,1771.2,1290.05,481.15,UPI,Returning
+2025-06-24,East,Monitor,Electronics,2,260.0,0.21,410.8,277.95,132.85,Cash,Returning
+2025-06-24,North,Monitor,Electronics,4,260.0,0.22,811.2,636.0,175.2,Credit Card,New
+2025-06-24,West,Headphones,Accessories,6,85.0,0.21,402.9,268.67,134.23,Debit Card,New
+2025-06-24,North,Laptop,Electronics,1,720.0,0.18,590.4,443.27,147.13,Cash,New
+2025-06-25,North,Laptop,Electronics,4,720.0,0.13,2505.6,1702.47,803.13,Debit Card,New
+2025-06-25,East,Headphones,Accessories,5,85.0,0.03,412.25,315.61,96.64,Credit Card,Returning
+2025-06-26,West,Headphones,Accessories,6,85.0,0.0,510.0,326.5,183.5,Credit Card,Returning
+2025-06-27,East,Smartphone,Electronics,3,510.0,0.15,1300.5,1051.46,249.04,UPI,New
+2025-06-27,West,Headphones,Accessories,5,85.0,0.1,382.5,275.06,107.44,UPI,New
+2025-06-28,East,Mouse,Accessories,7,28.0,0.19,158.76,99.08,59.68,Debit Card,Returning
+2025-06-28,North,Monitor,Electronics,2,260.0,0.15,442.0,356.44,85.56,UPI,Returning
+2025-06-28,West,Laptop,Electronics,4,720.0,0.08,2649.6,1754.67,894.93,Credit Card,New
+2025-06-29,West,Monitor,Electronics,2,260.0,0.19,421.2,321.84,99.36,Cash,Returning
+2025-06-29,East,Keyboard,Accessories,3,48.0,0.07,133.92,100.14,33.78,Cash,New
+2025-06-29,South,Tablet,Electronics,1,330.0,0.04,316.8,253.9,62.9,Credit Card,New
+2025-06-30,East,Keyboard,Accessories,4,48.0,0.09,174.72,140.09,34.63,Credit Card,Returning
+2025-06-30,North,Laptop,Electronics,7,720.0,0.18,4132.8,3178.36,954.44,Cash,New
+2025-06-30,East,Keyboard,Accessories,6,48.0,0.14,247.68,171.39,76.29,UPI,New
+2025-06-30,North,Smartphone,Electronics,3,510.0,0.08,1407.6,1006.0,401.6,Debit Card,New
+2025-07-01,East,Tablet,Electronics,7,330.0,0.01,2286.9,1725.84,561.06,UPI,Returning
+2025-07-01,East,Mouse,Accessories,7,28.0,0.07,182.28,131.7,50.58,Debit Card,New
+2025-07-02,East,Monitor,Electronics,3,260.0,0.01,772.2,545.38,226.82,UPI,New
+2025-07-02,West,Tablet,Electronics,1,330.0,0.1,297.0,206.59,90.41,UPI,Returning
+2025-07-02,West,Smartphone,Electronics,3,510.0,0.03,1484.1,1054.66,429.44,Credit Card,New
+2025-07-03,South,Keyboard,Accessories,3,48.0,0.01,142.56,114.26,28.3,UPI,Returning
+2025-07-03,East,Headphones,Accessories,1,85.0,0.07,79.05,52.33,26.72,Cash,Returning
+2025-07-03,West,Laptop,Electronics,1,720.0,0.15,612.0,417.29,194.71,Debit Card,Returning
+2025-07-03,East,Headphones,Accessories,4,85.0,0.02,333.2,254.03,79.17,Credit Card,Returning
+2025-07-03,North,Laptop,Electronics,5,720.0,0.2,2880.0,2192.74,687.26,Credit Card,New
+2025-07-03,West,Headphones,Accessories,7,85.0,0.14,511.7,334.65,177.05,UPI,Returning
+2025-07-03,North,Keyboard,Accessories,2,48.0,0.17,79.68,55.08,24.6,Credit Card,Returning
+2025-07-04,East,Laptop,Electronics,2,720.0,0.01,1425.6,947.08,478.52,Cash,New
+2025-07-04,North,Monitor,Electronics,7,260.0,0.17,1510.6,1124.16,386.44,Credit Card,New
+2025-07-04,South,Headphones,Accessories,4,85.0,0.0,340.0,228.59,111.41,Debit Card,New
+2025-07-05,West,Smartphone,Electronics,3,510.0,0.14,1315.8,900.43,415.37,Cash,Returning
+2025-07-05,South,Mouse,Accessories,1,28.0,0.11,24.92,15.53,9.39,Cash,Returning
+2025-07-05,North,Keyboard,Accessories,4,48.0,0.16,161.28,124.54,36.74,UPI,Returning
+2025-07-05,West,Keyboard,Accessories,1,48.0,0.1,43.2,30.71,12.49,UPI,Returning
+2025-07-05,West,Headphones,Accessories,1,85.0,0.17,70.55,50.07,20.48,UPI,Returning
+2025-07-05,East,Mouse,Accessories,7,28.0,0.11,174.44,141.11,33.33,UPI,Returning
+2025-07-06,West,Headphones,Accessories,1,85.0,0.11,75.65,54.57,21.08,Credit Card,New
+2025-07-06,North,Keyboard,Accessories,2,48.0,0.17,79.68,64.34,15.34,Credit Card,New
+2025-07-06,North,Smartphone,Electronics,2,510.0,0.14,877.2,557.78,319.42,Cash,New
+2025-07-06,South,Headphones,Accessories,6,85.0,0.14,438.6,311.52,127.08,Credit Card,New
+2025-07-06,North,Monitor,Electronics,33,260.0,0.12,7550.4,5177.98,2372.42,Credit Card,New
+2025-07-06,East,Laptop,Electronics,3,720.0,0.01,2138.4,1556.05,582.35,Credit Card,Returning
+2025-07-06,North,Tablet,Electronics,2,330.0,0.07,613.8,461.46,152.34,Debit Card,New
+2025-07-07,East,Tablet,Electronics,3,330.0,0.19,801.9,574.26,227.64,Cash,New
+2025-07-07,North,Tablet,Electronics,2,330.0,0.02,646.8,514.66,132.14,Credit Card,Returning
+2025-07-08,South,Smartphone,Electronics,7,510.0,0.16,2998.8,1945.14,1053.66,Debit Card,Returning
+2025-07-08,East,Mouse,Accessories,3,28.0,0.01,83.16,59.82,23.34,Credit Card,New
+2025-07-08,North,Headphones,Accessories,4,85.0,0.01,336.6,258.92,77.68,Credit Card,Returning
+2025-07-09,North,Monitor,Electronics,2,260.0,0.21,410.8,309.91,100.89,Credit Card,Returning
+2025-07-09,North,Smartphone,Electronics,2,510.0,0.11,907.8,683.51,224.29,Debit Card,New
+2025-07-09,North,Monitor,Electronics,2,260.0,0.14,447.2,289.34,157.86,Credit Card,Returning
+2025-07-09,North,Headphones,Accessories,3,85.0,0.06,239.7,193.11,46.59,UPI,New
+2025-07-09,South,Headphones,Accessories,4,85.0,0.21,268.6,169.08,99.52,UPI,New
+2025-07-10,South,Mouse,Accessories,1,28.0,0.07,26.04,18.76,7.28,UPI,New
+2025-07-11,North,Smartphone,Electronics,4,510.0,0.12,1795.2,1237.2,558.0,Credit Card,New
+2025-07-11,South,Smartphone,Electronics,1,510.0,0.09,464.1,325.48,138.62,Credit Card,New
+2025-07-11,West,Laptop,Electronics,1,720.0,0.02,705.6,449.8,255.8,Cash,New
+2025-07-11,West,Headphones,Accessories,5,85.0,0.19,344.25,280.45,63.8,Credit Card,Returning
+2025-07-12,West,Smartphone,Electronics,3,510.0,0.19,1239.3,980.52,258.78,Debit Card,New
+2025-07-12,North,Keyboard,Accessories,4,48.0,0.17,159.36,129.53,29.83,UPI,Returning
+2025-07-13,North,Mouse,Accessories,3,28.0,0.22,65.52,52.09,13.43,UPI,New
+2025-07-13,North,Laptop,Electronics,4,720.0,0.2,2304.0,1676.98,627.02,Debit Card,New
+2025-07-14,West,Smartphone,Electronics,5,510.0,0.13,2218.5,1791.22,427.28,UPI,New
+2025-07-14,North,Monitor,Electronics,2,260.0,0.11,462.8,313.16,149.64,Cash,Returning
+2025-07-14,North,Laptop,Electronics,6,720.0,0.16,3628.8,2906.31,722.49,UPI,New
+2025-07-15,East,Laptop,Electronics,6,720.0,0.11,3844.8,2559.33,1285.47,UPI,Returning
+2025-07-15,South,Headphones,Accessories,5,85.0,0.06,399.5,297.23,102.27,Credit Card,New
+2025-07-16,South,Keyboard,Accessories,1,48.0,0.03,46.56,34.43,12.13,Credit Card,Returning
+2025-07-16,South,Smartphone,Electronics,3,510.0,0.19,1239.3,915.78,323.52,UPI,Returning
+2025-07-16,South,Mouse,Accessories,3,28.0,0.2,67.2,49.68,17.52,UPI,New
+2025-07-16,East,Mouse,Accessories,4,28.0,0.04,107.52,72.42,35.1,Cash,New
+2025-07-17,North,Keyboard,Accessories,1,48.0,0.13,41.76,32.17,9.59,Cash,New
+2025-07-17,North,Monitor,Electronics,5,260.0,0.16,1092.0,690.56,401.44,Debit Card,Returning
+2025-07-18,East,Mouse,Accessories,7,28.0,0.2,156.8,114.84,41.96,Credit Card,New
+2025-07-18,East,Laptop,Electronics,3,720.0,0.07,2008.8,1470.7,538.1,Cash,New
+2025-07-18,East,Keyboard,Accessories,5,48.0,0.04,230.4,172.89,57.51,Credit Card,Returning
+2025-07-18,North,Monitor,Electronics,4,260.0,0.06,977.6,648.98,328.62,Debit Card,Returning
+2025-07-19,North,Mouse,Accessories,6,28.0,0.19,136.08,93.72,42.36,UPI,Returning
+2025-07-19,North,Monitor,Electronics,7,260.0,0.19,1474.2,962.12,512.08,Debit Card,New
+2025-07-20,North,Mouse,Accessories,2,28.0,0.22,43.68,34.05,9.63,UPI,New
+2025-07-20,North,Mouse,Accessories,5,28.0,0.02,137.2,86.14,51.06,Cash,Returning
+2025-07-20,West,Headphones,Accessories,7,85.0,0.18,487.9,392.95,94.95,Debit Card,Returning
+2025-07-20,East,Keyboard,Accessories,7,48.0,0.09,305.76,231.51,74.25,UPI,New
+2025-07-21,South,Laptop,Electronics,4,720.0,0.03,2793.6,2110.38,683.22,Credit Card,Returning
+2025-07-21,East,Smartphone,Electronics,2,510.0,0.2,816.0,515.97,300.03,UPI,New
+2025-07-21,South,Laptop,Electronics,3,720.0,0.07,2008.8,1505.44,503.36,UPI,New
+2025-07-21,East,Laptop,Electronics,7,720.0,0.06,4737.6,3092.95,1644.65,UPI,New
+2025-07-21,West,Monitor,Electronics,2,260.0,0.13,452.4,315.14,137.26,UPI,New
+2025-07-21,West,Tablet,Electronics,3,330.0,0.2,792.0,620.27,171.73,UPI,New
+2025-07-22,South,Laptop,Electronics,1,720.0,0.21,568.8,425.27,143.53,Credit Card,Returning
+2025-07-22,North,Mouse,Accessories,7,28.0,0.16,164.64,120.35,44.29,Debit Card,New
+2025-07-22,West,Tablet,Electronics,6,330.0,0.1,1782.0,1262.42,519.58,Debit Card,Returning
+2025-07-22,South,Keyboard,Accessories,32,48.0,0.0,1536.0,1036.14,499.86,UPI,New
+2025-07-23,East,Keyboard,Accessories,4,48.0,0.05,182.4,134.58,47.82,Debit Card,Returning
+2025-07-23,West,Tablet,Electronics,1,330.0,0.12,290.4,202.1,88.3,Credit Card,New
+2025-07-23,North,Smartphone,Electronics,4,510.0,0.02,1999.2,1552.51,446.69,UPI,Returning
+2025-07-23,East,Smartphone,Electronics,6,510.0,0.13,2662.2,1718.39,943.81,Credit Card,New
+2025-07-23,North,Smartphone,Electronics,4,510.0,0.2,1632.0,1042.6,589.4,UPI,Returning
+2025-07-23,North,Smartphone,Electronics,7,510.0,0.15,3034.5,2391.76,642.74,Cash,Returning
+2025-07-24,West,Smartphone,Electronics,1,510.0,0.13,443.7,314.77,128.93,Credit Card,New
+2025-07-24,South,Mouse,Accessories,1,28.0,0.12,24.64,17.2,7.44,Credit Card,New
+2025-07-25,South,Monitor,Electronics,6,260.0,0.11,1388.4,1070.28,318.12,Credit Card,Returning
+2025-07-26,South,Mouse,Accessories,2,28.0,0.12,49.28,35.33,13.95,UPI,New
+2025-07-26,West,Smartphone,Electronics,4,510.0,0.12,1795.2,1195.64,599.56,UPI,New
+2025-07-26,East,Tablet,Electronics,3,330.0,0.19,801.9,646.29,155.61,UPI,Returning
+2025-07-27,West,Laptop,Electronics,7,720.0,0.03,4888.8,3999.88,888.92,Debit Card,New
+2025-07-27,West,Laptop,Electronics,1,720.0,0.08,662.4,452.81,209.59,UPI,New
+2025-07-27,North,Tablet,Electronics,2,330.0,0.11,587.4,452.27,135.13,Cash,Returning
+2025-07-27,North,Keyboard,Accessories,7,48.0,0.22,262.08,212.37,49.71,UPI,Returning
+2025-07-27,North,Tablet,Electronics,5,330.0,0.07,1534.5,1050.32,484.18,UPI,Returning
+2025-07-28,East,Headphones,Accessories,2,85.0,0.2,136.0,87.58,48.42,UPI,New
+2025-07-29,West,Tablet,Electronics,7,330.0,0.03,2240.7,1453.47,787.23,UPI,New
+2025-07-30,South,Smartphone,Electronics,5,510.0,0.06,2397.0,1894.13,502.87,Credit Card,Returning
+2025-07-30,North,Laptop,Electronics,3,720.0,0.16,1814.4,1125.29,689.11,Credit Card,New
+2025-07-31,West,Keyboard,Accessories,2,48.0,0.19,77.76,61.67,16.09,Debit Card,Returning
+2025-07-31,West,Laptop,Electronics,3,720.0,0.07,2008.8,1551.13,457.67,Debit Card,New
+2025-07-31,East,Smartphone,Electronics,6,510.0,0.01,3029.4,1942.34,1087.06,UPI,Returning
+2025-07-31,East,Headphones,Accessories,7,85.0,0.1,535.5,365.44,170.06,Cash,Returning
+2025-08-01,North,Monitor,Electronics,4,260.0,0.2,832.0,631.67,200.33,UPI,New
+2025-08-01,North,Keyboard,Accessories,3,48.0,0.1,129.6,95.23,34.37,Cash,Returning
+2025-08-01,North,Smartphone,Electronics,6,510.0,0.09,2784.6,1943.79,840.81,UPI,New
+2025-08-01,North,Mouse,Accessories,2,28.0,0.07,52.08,38.38,13.7,Credit Card,New
+2025-08-02,South,Smartphone,Electronics,6,510.0,0.1,2754.0,1946.18,807.82,Cash,New
+2025-08-02,South,Laptop,Electronics,1,720.0,0.12,633.6,424.51,209.09,Credit Card,Returning
+2025-08-02,North,Headphones,Accessories,1,85.0,0.09,77.35,54.02,23.33,UPI,New
+2025-08-03,East,Smartphone,Electronics,5,510.0,0.13,2218.5,1635.54,582.96,UPI,Returning
+2025-08-03,East,Smartphone,Electronics,6,510.0,0.22,2386.8,1926.41,460.39,Debit Card,New
+2025-08-03,North,Headphones,Accessories,3,85.0,0.08,234.6,153.57,81.03,UPI,New
+2025-08-03,North,Mouse,Accessories,7,28.0,0.16,164.64,104.89,59.75,Credit Card,New
+2025-08-04,West,Laptop,Electronics,5,720.0,0.14,3096.0,1922.22,1173.78,UPI,New
+2025-08-04,East,Smartphone,Electronics,6,510.0,0.19,2478.6,1881.53,597.07,UPI,New
+2025-08-04,North,Headphones,Accessories,4,85.0,0.0,340.0,212.58,127.42,Credit Card,New
+2025-08-04,East,Laptop,Electronics,2,720.0,0.17,1195.2,976.86,218.34,Cash,New
+2025-08-04,South,Laptop,Electronics,6,720.0,0.22,3369.6,2148.28,1221.32,UPI,New
+2025-08-04,West,Monitor,Electronics,6,260.0,0.0,1560.0,1069.38,490.62,UPI,Returning
+2025-08-04,East,Tablet,Electronics,5,330.0,0.14,1419.0,933.41,485.59,UPI,New
+2025-08-05,South,Monitor,Electronics,5,260.0,0.01,1287.0,992.37,294.63,Credit Card,New
+2025-08-05,South,Laptop,Electronics,2,720.0,0.2,1152.0,941.09,210.91,UPI,Returning
+2025-08-06,West,Tablet,Electronics,4,330.0,0.09,1201.2,922.63,278.57,Credit Card,Returning
+2025-08-06,East,Smartphone,Electronics,1,510.0,0.06,479.4,322.97,156.43,UPI,New
+2025-08-06,West,Keyboard,Accessories,7,48.0,0.13,292.32,191.47,100.85,Debit Card,Returning
+2025-08-07,West,Tablet,Electronics,3,330.0,0.08,910.8,677.02,233.78,UPI,Returning
+2025-08-09,East,Headphones,Accessories,2,85.0,0.19,137.7,105.92,31.78,Debit Card,Returning
+2025-08-09,North,Mouse,Accessories,3,28.0,0.11,74.76,55.59,19.17,Cash,New
+2025-08-09,East,Keyboard,Accessories,5,48.0,0.12,211.2,135.76,75.44,UPI,New
+2025-08-09,South,Tablet,Electronics,5,330.0,0.01,1633.5,1157.3,476.2,Debit Card,New
+2025-08-09,South,Headphones,Accessories,6,85.0,0.18,418.2,271.21,146.99,UPI,Returning
+2025-08-12,North,Mouse,Accessories,5,28.0,0.06,131.6,92.76,38.84,UPI,Returning
+2025-08-12,North,Monitor,Electronics,2,260.0,0.18,426.4,278.15,148.25,UPI,Returning
+2025-08-12,East,Headphones,Accessories,2,85.0,0.15,144.5,104.35,40.15,UPI,New
+2025-08-12,South,Mouse,Accessories,7,28.0,0.17,162.68,113.53,49.15,UPI,New
+2025-08-12,North,Keyboard,Accessories,4,48.0,0.22,149.76,120.54,29.22,Credit Card,New
+2025-08-13,East,Smartphone,Electronics,2,510.0,0.15,867.0,627.57,239.43,UPI,Returning
+2025-08-13,East,Smartphone,Electronics,7,510.0,0.14,3070.2,2430.64,639.56,Cash,New
+2025-08-14,,Smartphone,Electronics,5,510.0,0.1,2295.0,1780.63,514.37,Debit Card,New
+2025-08-14,South,Keyboard,Accessories,5,48.0,0.17,199.2,161.92,37.28,UPI,New
+2025-08-14,East,Keyboard,Accessories,7,48.0,0.01,332.64,249.35,83.29,Credit Card,Returning
+2025-08-14,East,Tablet,Electronics,3,330.0,0.09,900.9,586.71,314.19,UPI,Returning
+2025-08-15,North,Monitor,Electronics,4,260.0,0.06,977.6,634.74,342.86,UPI,Returning
+2025-08-16,North,Mouse,Accessories,1,28.0,0.04,26.88,18.23,8.65,Credit Card,New
+2025-08-16,East,Smartphone,Electronics,6,510.0,0.01,3029.4,2196.2,833.2,Debit Card,Returning
+2025-08-16,North,Smartphone,Electronics,6,510.0,0.05,2907.0,2212.49,694.51,Credit Card,Returning
+2025-08-17,West,Smartphone,Electronics,2,510.0,0.21,805.8,570.81,234.99,Credit Card,Returning
+2025-08-17,South,Smartphone,Electronics,6,510.0,0.04,2937.6,2008.83,928.77,Credit Card,Returning
+2025-08-18,North,Keyboard,Accessories,4,48.0,0.01,190.08,122.94,67.14,Debit Card,Returning
+2025-08-18,West,Mouse,Accessories,3,28.0,0.14,72.24,58.03,14.21,Credit Card,New
+2025-08-19,West,Smartphone,Electronics,6,510.0,0.0,3060.0,2277.74,782.26,UPI,New
+2025-08-20,West,Mouse,Accessories,7,28.0,0.14,168.56,134.27,34.29,Credit Card,New
+2025-08-20,North,Mouse,Accessories,2,28.0,0.11,49.84,35.59,14.25,Cash,New
+2025-08-20,East,Smartphone,Electronics,1,510.0,0.15,433.5,309.97,123.53,Credit Card,New
+2025-08-21,West,Keyboard,Accessories,6,48.0,0.1,259.2,197.9,61.3,UPI,New
+2025-08-21,East,Mouse,Accessories,2,28.0,0.13,48.72,34.88,13.84,UPI,New
+2025-08-21,East,Laptop,Electronics,7,720.0,0.05,4788.0,3123.26,1664.74,UPI,Returning
+2025-08-22,North,Laptop,Electronics,7,720.0,0.2,4032.0,3254.31,777.69,Credit Card,Returning
+2025-08-22,North,Laptop,Electronics,6,720.0,0.15,3672.0,2831.76,840.24,UPI,New
+2025-08-23,South,Monitor,Electronics,1,260.0,0.17,215.8,160.89,54.91,Cash,New
+2025-08-23,West,Mouse,Accessories,4,28.0,0.07,104.16,85.16,19.0,UPI,New
+2025-08-23,South,Monitor,Electronics,5,260.0,0.22,1014.0,654.61,359.39,Debit Card,Returning
+2025-08-23,North,Smartphone,Electronics,7,510.0,0.01,3534.3,2406.8,1127.5,Cash,Returning
+2025-08-23,South,Mouse,Accessories,3,28.0,0.1,75.6,54.87,20.73,UPI,New
+2025-08-24,North,Headphones,Accessories,6,85.0,0.01,504.9,343.69,161.21,Debit Card,New
+2025-08-24,East,Laptop,Electronics,6,720.0,0.21,3412.8,2796.11,616.69,UPI,Returning
+2025-08-24,South,Keyboard,Accessories,3,48.0,0.04,138.24,104.91,33.33,UPI,New
+2025-08-25,East,Smartphone,Electronics,6,510.0,0.05,2907.0,2119.19,787.81,Credit Card,New
+2025-08-25,East,Keyboard,Accessories,5,48.0,0.11,213.6,148.1,65.5,Debit Card,Returning
+2025-08-25,West,Monitor,Electronics,1,260.0,0.08,239.2,174.91,64.29,UPI,Returning
+2025-08-25,South,Laptop,Electronics,1,720.0,0.22,561.6,442.27,119.33,Credit Card,Returning
+2025-08-25,North,Tablet,Electronics,1,330.0,0.13,287.1,224.66,62.44,Debit Card,Returning
+2025-08-25,East,Smartphone,Electronics,3,510.0,0.08,1407.6,1065.36,342.24,UPI,Returning
+2025-08-25,West,Smartphone,Electronics,3,510.0,0.12,1346.4,963.83,382.57,Credit Card,New
+2025-08-26,South,Monitor,Electronics,4,260.0,0.17,863.2,573.43,289.77,UPI,New
+2025-08-27,East,Monitor,Electronics,5,260.0,0.17,1079.0,861.63,217.37,Cash,Returning
+2025-08-27,North,Keyboard,Accessories,1,48.0,0.13,41.76,28.02,13.74,Debit Card,New
+2025-08-27,East,Smartphone,Electronics,1,510.0,0.17,423.3,310.46,112.84,UPI,New
+2025-08-27,South,Smartphone,Electronics,5,510.0,0.04,2448.0,1862.99,585.01,Credit Card,Returning
+2025-08-27,South,Headphones,Accessories,2,85.0,0.14,146.2,96.74,49.46,UPI,New
+2025-08-27,East,Tablet,Electronics,6,330.0,0.18,1623.6,1086.86,536.74,Cash,New
+2025-08-28,North,Headphones,Accessories,3,85.0,0.01,252.45,158.21,94.24,Debit Card,Returning
+2025-08-28,West,Laptop,Electronics,6,720.0,0.19,3499.2,2232.61,1266.59,UPI,New
+2025-08-28,North,Mouse,Accessories,5,28.0,0.04,134.4,89.9,44.5,UPI,New
+2025-08-29,East,Tablet,Electronics,3,330.0,0.19,801.9,579.0,222.9,Credit Card,Returning
+2025-08-29,South,Mouse,Accessories,6,28.0,0.08,154.56,114.36,40.2,UPI,Returning
+2025-08-29,West,Mouse,Accessories,1,28.0,0.14,24.08,17.77,6.31,Credit Card,Returning
+2025-08-29,East,Tablet,Electronics,4,330.0,0.12,1161.6,803.06,358.54,Debit Card,New
+2025-08-29,South,Keyboard,Accessories,4,48.0,0.21,151.68,110.52,41.16,UPI,Returning
+2025-08-30,South,Laptop,Electronics,7,720.0,0.2,4032.0,3078.04,953.96,UPI,New
+2025-08-30,South,Laptop,Electronics,6,720.0,0.17,3585.6,2644.93,940.67,UPI,New
+2025-08-30,North,Keyboard,Accessories,2,48.0,0.12,84.48,66.78,17.7,Credit Card,Returning
+2025-08-31,North,Headphones,Accessories,3,85.0,0.1,229.5,172.74,56.76,UPI,New
+2025-09-01,North,Smartphone,Electronics,7,510.0,0.07,3320.1,2528.1,792.0,UPI,Returning
+2025-09-01,North,Mouse,Accessories,2,28.0,0.1,50.4,32.85,17.55,Credit Card,New
+2025-09-02,North,Mouse,Accessories,1,28.0,0.19,22.68,14.41,8.27,Credit Card,New
+2025-09-03,North,Headphones,Accessories,7,85.0,0.14,511.7,394.86,116.84,Credit Card,Returning
+2025-09-03,West,Laptop,Electronics,2,720.0,0.09,1310.4,1022.3,288.1,UPI,Returning
+2025-09-03,South,Laptop,Electronics,5,720.0,0.21,2844.0,2019.66,824.34,Debit Card,Returning
+2025-09-04,South,Smartphone,Electronics,1,510.0,0.17,423.3,341.66,81.64,Credit Card,Returning
+2025-09-04,East,Headphones,Accessories,5,85.0,0.16,357.0,233.94,123.06,UPI,Returning
+2025-09-04,North,Smartphone,Electronics,3,510.0,0.18,1254.6,1019.88,234.72,Credit Card,New
+2025-09-04,South,Mouse,Accessories,3,28.0,0.17,69.72,56.71,13.01,Debit Card,New
+2025-09-04,North,Headphones,Accessories,1,85.0,0.0,85.0,61.4,23.6,UPI,Returning
+2025-09-04,North,Headphones,Accessories,4,85.0,0.02,333.2,239.93,93.27,Credit Card,New
+2025-09-04,South,Tablet,Electronics,2,330.0,0.16,554.4,348.04,206.36,Credit Card,New
+2025-09-05,North,Mouse,Accessories,1,28.0,0.17,23.24,16.68,6.56,UPI,Returning
+2025-09-05,East,Laptop,Electronics,1,720.0,0.04,691.2,475.86,215.34,Credit Card,Returning
+2025-09-05,East,Smartphone,Electronics,6,510.0,0.2,2448.0,1561.89,886.11,UPI,Returning
+2025-09-05,East,Keyboard,Accessories,2,48.0,0.21,75.84,60.65,15.19,UPI,New
+2025-09-05,West,Tablet,Electronics,6,330.0,0.05,1881.0,1179.77,701.23,Debit Card,Returning
+2025-09-06,North,Monitor,Electronics,7,260.0,0.06,1710.8,1226.13,484.67,Credit Card,Returning
+2025-09-06,West,Mouse,Accessories,3,28.0,0.03,81.48,63.63,17.85,Debit Card,Returning
+2025-09-06,West,Laptop,Electronics,3,720.0,0.1,1944.0,1304.34,639.66,Credit Card,New
+2025-09-06,East,Laptop,Electronics,5,720.0,0.04,3456.0,2274.09,1181.91,Credit Card,New
+2025-09-06,East,Laptop,Electronics,7,720.0,0.03,4888.8,3530.45,1358.35,UPI,New
+2025-09-06,East,Monitor,Electronics,7,260.0,0.05,1729.0,1354.28,374.72,UPI,Returning
+2025-09-06,East,Headphones,Accessories,4,85.0,0.06,319.6,233.74,85.86,Debit Card,Returning
+2025-09-06,East,Headphones,Accessories,7,85.0,0.08,547.4,371.47,175.93,Debit Card,Returning
+2025-09-07,East,Laptop,Electronics,3,720.0,0.15,1836.0,1312.46,523.54,UPI,New
+2025-09-07,West,Headphones,Accessories,6,85.0,0.17,423.3,299.05,124.25,UPI,New
+2025-09-07,South,Headphones,Accessories,1,85.0,0.06,79.9,63.28,16.62,Credit Card,New
+2025-09-07,South,Headphones,Accessories,3,85.0,0.07,237.15,183.24,53.91,Debit Card,New
+2025-09-07,North,Mouse,Accessories,2,28.0,0.16,47.04,34.58,12.46,Debit Card,Returning
+2025-09-07,West,Smartphone,Electronics,2,510.0,0.13,887.4,611.95,275.45,Cash,New
+2025-09-08,South,Smartphone,Electronics,3,510.0,0.07,1422.9,1084.58,338.32,UPI,New
+2025-09-08,West,Keyboard,Accessories,2,48.0,0.1,86.4,69.52,16.88,Credit Card,New
+2025-09-08,East,Headphones,Accessories,1,85.0,0.05,80.75,56.11,24.64,Credit Card,Returning
+2025-09-09,South,Laptop,Electronics,3,720.0,0.11,1922.4,1566.91,355.49,Credit Card,Returning
+2025-09-09,North,Laptop,Electronics,2,720.0,0.16,1209.6,920.81,288.79,UPI,Returning
+2025-09-09,South,Monitor,Electronics,4,260.0,0.16,873.6,627.51,246.09,Debit Card,Returning
+2025-09-10,West,Mouse,Accessories,2,28.0,0.12,49.28,34.62,14.66,Credit Card,New
+2025-09-10,West,Smartphone,Electronics,7,510.0,0.21,2820.3,2023.27,797.03,UPI,Returning
+2025-09-11,North,Headphones,Accessories,2,85.0,0.18,139.4,110.6,28.8,Debit Card,New
+2025-09-11,South,Laptop,Electronics,7,720.0,0.11,4485.6,3158.81,1326.79,Cash,New
+2025-09-13,West,Smartphone,Electronics,1,510.0,0.04,489.6,306.14,183.46,Cash,New
+2025-09-13,East,Laptop,Electronics,7,720.0,0.12,4435.2,2770.48,1664.72,Debit Card,New
+2025-09-13,East,Laptop,Electronics,1,720.0,0.05,684.0,560.33,123.67,UPI,Returning
+2025-09-14,South,Mouse,Accessories,2,28.0,0.18,45.92,29.33,16.59,UPI,New
+2025-09-14,South,Smartphone,Electronics,6,510.0,0.04,2937.6,2375.9,561.7,UPI,New
+2025-09-14,West,Keyboard,Accessories,6,48.0,0.09,262.08,202.16,59.92,Credit Card,Returning
+2025-09-14,North,Keyboard,Accessories,3,48.0,0.18,118.08,86.77,31.31,Cash,Returning
+2025-09-14,North,Mouse,Accessories,3,28.0,0.04,80.64,50.92,29.72,Credit Card,Returning
+2025-09-14,South,Keyboard,Accessories,1,48.0,0.14,41.28,27.89,13.39,UPI,Returning
+2025-09-15,West,Keyboard,Accessories,2,48.0,0.04,92.16,69.24,22.92,Cash,Returning
+2025-09-15,North,Smartphone,Electronics,2,510.0,0.02,999.6,795.34,204.26,UPI,New
+2025-09-15,East,Smartphone,Electronics,1,510.0,0.15,433.5,318.23,115.27,UPI,New
+2025-09-16,East,Headphones,Accessories,3,85.0,0.04,244.8,156.55,88.25,Credit Card,New
+2025-09-16,West,Laptop,Electronics,1,720.0,0.08,662.4,528.2,134.2,Cash,New
+2025-09-17,North,Keyboard,Accessories,6,48.0,0.0,288.0,182.65,105.35,Cash,New
+2025-09-17,North,Mouse,Accessories,7,28.0,0.13,170.52,119.12,51.4,Credit Card,New
+2025-09-17,East,Headphones,Accessories,4,85.0,0.06,319.6,262.03,57.57,UPI,New
+2025-09-18,West,Laptop,Electronics,2,720.0,0.1,1296.0,986.54,309.46,Debit Card,Returning
+2025-09-18,North,Keyboard,Accessories,5,48.0,0.08,220.8,174.52,46.28,UPI,Returning
+2025-09-18,East,Smartphone,Electronics,3,510.0,0.1,1377.0,1053.96,323.04,Debit Card,New
+2025-09-18,West,Mouse,Accessories,6,28.0,0.2,134.4,90.09,44.31,UPI,New
+2025-09-19,South,Monitor,Electronics,6,260.0,0.21,1232.4,871.07,361.33,UPI,New
+2025-09-19,West,Smartphone,Electronics,6,510.0,0.16,2570.4,1906.36,664.04,Credit Card,New
+2025-09-20,West,Mouse,Accessories,4,28.0,0.17,92.96,63.55,29.41,UPI,Returning
+2025-09-20,South,Tablet,Electronics,2,330.0,0.18,541.2,365.15,176.05,UPI,Returning
+2025-09-20,East,Keyboard,Accessories,6,48.0,0.19,233.28,182.69,50.59,UPI,New
+2025-09-21,West,Keyboard,Accessories,5,48.0,0.02,235.2,149.17,86.03,Debit Card,Returning
+2025-09-21,East,Headphones,Accessories,5,85.0,0.2,340.0,265.08,74.92,Debit Card,Returning
+2025-09-22,North,Smartphone,Electronics,5,510.0,0.02,2499.0,1811.61,687.39,Credit Card,New
+2025-09-22,West,Headphones,Accessories,5,85.0,0.01,420.75,304.69,116.06,Debit Card,New
+2025-09-22,North,Laptop,Electronics,4,720.0,0.11,2563.2,1601.89,961.31,Debit Card,Returning
+2025-09-22,North,Smartphone,Electronics,3,510.0,0.02,1499.4,1150.9,348.5,Debit Card,New
+2025-09-22,West,Laptop,Electronics,5,720.0,0.01,3564.0,2795.69,768.31,UPI,New
+2025-09-23,West,Tablet,Electronics,3,330.0,0.08,910.8,569.59,341.21,UPI,New
+2025-09-23,East,Mouse,Accessories,6,28.0,0.06,157.92,101.23,56.69,UPI,Returning
+2025-09-23,South,Monitor,Electronics,2,260.0,0.05,494.0,348.97,145.03,Credit Card,New
+2025-09-23,West,Headphones,Accessories,4,85.0,0.08,312.8,237.4,75.4,Credit Card,New
+2025-09-24,North,Tablet,Electronics,2,330.0,0.05,627.0,499.48,127.52,UPI,Returning
+2025-09-24,West,Smartphone,Electronics,1,510.0,0.19,413.1,329.21,83.89,Cash,Returning
+2025-09-24,East,Headphones,Accessories,5,85.0,0.14,365.5,247.06,118.44,Debit Card,New
+2025-09-24,East,Headphones,Accessories,1,85.0,0.04,81.6,61.62,19.98,Cash,New
+2025-09-24,North,Smartphone,Electronics,5,510.0,0.12,2244.0,1688.41,555.59,Debit Card,New
+2025-09-24,South,Smartphone,Electronics,6,510.0,0.07,2845.8,2129.6,716.2,Credit Card,New
+2025-09-24,South,Headphones,Accessories,2,85.0,0.02,166.6,124.78,41.82,Debit Card,Returning
+2025-09-24,South,Mouse,Accessories,1,28.0,0.04,26.88,17.15,9.73,Credit Card,Returning
+2025-09-25,North,Mouse,Accessories,3,28.0,0.05,79.8,62.81,16.99,Credit Card,New
+2025-09-25,East,Smartphone,Electronics,4,510.0,0.11,1815.6,1343.13,472.47,Cash,New
+2025-09-25,South,Smartphone,Electronics,5,510.0,0.02,2499.0,1901.86,597.14,Credit Card,Returning
+2025-09-25,North,Keyboard,Accessories,1,48.0,0.1,43.2,34.72,8.48,UPI,Returning
+2025-09-27,South,Smartphone,Electronics,5,510.0,0.2,2040.0,1462.09,577.91,Debit Card,New
+2025-09-27,North,Headphones,Accessories,2,85.0,0.12,149.6,105.48,44.12,Credit Card,New
+2025-09-28,North,Monitor,Electronics,4,260.0,0.15,884.0,593.33,290.67,Credit Card,New
+2025-09-28,West,Smartphone,Electronics,6,510.0,0.14,2631.6,1818.54,813.06,Debit Card,New
+2025-09-29,South,Smartphone,Electronics,4,510.0,0.02,1999.2,1418.39,580.81,Cash,Returning
+2025-09-29,South,Laptop,Electronics,4,720.0,0.14,2476.8,1634.82,841.98,Debit Card,Returning
+2025-09-29,West,Mouse,Accessories,7,28.0,0.2,156.8,114.34,42.46,Cash,New
+2025-09-29,North,Keyboard,Accessories,7,48.0,0.03,325.92,235.05,90.87,Credit Card,New
+2025-09-30,North,Smartphone,Electronics,3,510.0,0.14,1315.8,1033.74,282.06,UPI,Returning
+2025-09-30,North,Smartphone,Electronics,4,510.0,0.07,1897.2,1384.57,512.63,UPI,New
+2025-09-30,North,Mouse,Accessories,4,28.0,0.21,88.48,64.75,23.73,UPI,New
+2025-09-30,South,Laptop,Electronics,4,720.0,0.19,2332.8,1589.46,743.34,Cash,Returning
+2025-09-30,North,Headphones,Accessories,4,85.0,0.04,326.4,245.64,80.76,UPI,New
+2025-09-30,West,Tablet,Electronics,1,330.0,0.03,320.1,246.6,73.5,Credit Card,New
+2025-09-30,North,Mouse,Accessories,4,28.0,0.14,96.32,62.68,33.64,Credit Card,Returning
+2025-09-30,South,Headphones,Accessories,1,85.0,0.02,83.3,65.97,17.33,UPI,New
+2025-10-01,East,Smartphone,Electronics,6,510.0,0.22,2386.8,1695.07,691.73,UPI,Returning
+2025-10-02,South,Keyboard,Accessories,4,48.0,0.09,174.72,122.95,51.77,UPI,Returning
+2025-10-02,West,Tablet,Electronics,2,330.0,0.08,607.2,416.28,190.92,Debit Card,Returning
+2025-10-02,North,Keyboard,Accessories,5,48.0,0.17,199.2,132.27,66.93,UPI,New
+2025-10-03,South,Headphones,Accessories,4,85.0,0.08,312.8,196.9,115.9,UPI,Returning
+2025-10-03,West,Laptop,Electronics,4,720.0,0.14,2476.8,1937.78,539.02,UPI,New
+2025-10-03,West,Laptop,Electronics,3,720.0,0.0,2160.0,1682.95,477.05,UPI,Returning
+2025-10-03,South,Mouse,Accessories,5,28.0,0.19,113.4,79.47,33.93,UPI,Returning
+2025-10-03,West,Headphones,Accessories,5,85.0,0.06,399.5,315.58,83.92,Credit Card,New
+2025-10-03,North,Keyboard,Accessories,2,48.0,0.18,78.72,60.3,18.42,Debit Card,Returning
+2025-10-04,East,Laptop,Electronics,6,720.0,0.03,4190.4,2838.44,1351.96,UPI,New
+2025-10-04,West,Laptop,Electronics,6,720.0,0.06,4060.8,3085.74,975.06,Debit Card,New
+2025-10-04,North,Headphones,Accessories,6,85.0,0.03,494.7,389.27,105.43,UPI,Returning
+2025-10-04,South,Tablet,Electronics,1,330.0,0.1,297.0,211.16,85.84,UPI,New
+2025-10-04,North,Mouse,Accessories,1,28.0,0.13,24.36,16.72,7.64,Debit Card,New
+2025-10-05,South,Monitor,Electronics,3,260.0,0.17,647.4,491.25,156.15,Credit Card,New
+2025-10-05,West,Smartphone,Electronics,5,510.0,0.0,2550.0,2027.63,522.37,Debit Card,Returning
+2025-10-06,West,Smartphone,Electronics,1,510.0,0.22,397.8,283.77,114.03,UPI,New
+2025-10-06,East,Mouse,Accessories,3,28.0,0.0,84.0,62.23,21.77,Debit Card,Returning
+2025-10-06,South,Tablet,Electronics,7,330.0,0.17,1917.3,1427.17,490.13,Debit Card,Returning
+2025-10-07,North,Tablet,Electronics,2,330.0,0.06,620.4,447.18,173.22,UPI,Returning
+2025-10-07,West,Monitor,Electronics,7,260.0,0.02,1783.6,1289.3,494.3,UPI,New
+2025-10-07,South,Laptop,Electronics,5,720.0,0.03,3492.0,2502.69,989.31,UPI,New
+2025-10-08,East,Smartphone,Electronics,3,510.0,0.12,1346.4,981.83,364.57,UPI,Returning
+2025-10-08,East,Smartphone,Electronics,29,510.0,0.17,12275.7,8751.6,3524.1,Credit Card,Returning
+2025-10-08,West,Laptop,Electronics,2,720.0,0.08,1324.8,900.71,424.09,UPI,Returning
+2025-10-09,East,Smartphone,Electronics,2,510.0,0.15,867.0,629.26,237.74,Debit Card,New
+2025-10-09,East,Mouse,Accessories,4,28.0,0.08,103.04,83.09,19.95,Cash,Returning
+2025-10-09,West,Keyboard,Accessories,6,48.0,0.15,244.8,171.44,73.36,Debit Card,New
+2025-10-09,West,Mouse,Accessories,1,28.0,0.02,27.44,17.3,10.14,Credit Card,New
+2025-10-09,North,Monitor,Electronics,5,260.0,0.11,1157.0,829.39,327.61,Cash,Returning
+2025-10-10,South,Tablet,Electronics,1,330.0,0.01,326.7,225.75,100.95,UPI,New
+2025-10-10,West,Headphones,Accessories,5,85.0,0.17,352.75,227.86,124.89,UPI,New
+2025-10-10,North,Smartphone,Electronics,2,510.0,0.1,918.0,731.93,186.07,Credit Card,New
+2025-10-10,South,Keyboard,Accessories,6,48.0,0.07,267.84,217.43,50.41,Cash,New
+2025-10-10,South,Monitor,Electronics,3,260.0,0.21,616.2,474.91,141.29,UPI,Returning
+2025-10-10,East,Smartphone,Electronics,5,510.0,0.03,2473.5,1879.18,594.32,Credit Card,Returning
+2025-10-10,South,Mouse,Accessories,7,28.0,0.01,194.04,131.93,62.11,Credit Card,New
+2025-10-10,West,Monitor,Electronics,3,260.0,0.15,663.0,496.29,166.71,UPI,Returning
+2025-10-11,East,Smartphone,Electronics,7,510.0,0.12,3141.6,2260.87,880.73,Debit Card,New
+2025-10-11,West,Monitor,Electronics,1,260.0,0.07,241.8,182.41,59.39,Credit Card,New
+2025-10-11,South,Tablet,Electronics,2,330.0,0.02,646.8,476.21,170.59,UPI,New
+2025-10-11,East,Smartphone,Electronics,6,510.0,0.01,3029.4,1880.65,1148.75,UPI,Returning
+2025-10-12,North,Keyboard,Accessories,4,48.0,0.08,176.64,141.67,34.97,Credit Card,Returning
+2025-10-12,West,Keyboard,Accessories,7,48.0,0.09,305.76,231.48,74.28,Debit Card,New
+2025-10-12,North,Keyboard,Accessories,2,48.0,0.19,77.76,62.56,15.2,Debit Card,New
+2025-10-12,West,Keyboard,Accessories,1,48.0,0.05,45.6,29.2,16.4,Debit Card,Returning
+2025-10-13,East,Headphones,Accessories,6,85.0,0.07,474.3,329.54,144.76,UPI,New
+2025-10-13,East,Tablet,Electronics,6,330.0,0.13,1722.6,1131.33,591.27,Debit Card,New
+2025-10-13,South,Smartphone,Electronics,3,510.0,0.15,1300.5,831.11,469.39,Debit Card,New
+2025-10-15,East,Mouse,Accessories,7,28.0,0.19,158.76,107.34,51.42,UPI,New
+2025-10-15,West,Mouse,Accessories,1,28.0,0.07,26.04,17.67,8.37,Credit Card,New
+2025-10-15,East,Monitor,Electronics,5,260.0,0.09,1183.0,777.39,405.61,Credit Card,New
+2025-10-15,North,Laptop,Electronics,7,720.0,0.03,4888.8,3530.03,1358.77,Credit Card,Returning
+2025-10-16,West,Mouse,Accessories,7,28.0,0.11,174.44,126.41,48.03,UPI,Returning
+2025-10-16,East,Keyboard,Accessories,2,48.0,0.13,83.52,53.69,29.83,Debit Card,New
+2025-10-16,West,Headphones,Accessories,4,85.0,0.18,278.8,186.81,91.99,Credit Card,Returning
+2025-10-17,South,Monitor,Electronics,7,260.0,0.13,1583.4,1297.65,285.75,UPI,Returning
+2025-10-17,South,Smartphone,Electronics,6,510.0,0.19,2478.6,1617.13,861.47,UPI,New
+2025-10-17,South,Smartphone,Electronics,23,510.0,0.15,9970.5,7255.32,2715.18,Cash,New
+2025-10-18,West,Smartphone,Electronics,7,510.0,0.16,2998.8,1945.23,1053.57,Credit Card,New
+2025-10-18,North,Mouse,Accessories,4,28.0,0.17,92.96,58.43,34.53,UPI,Returning
+2025-10-19,North,Mouse,Accessories,3,28.0,0.2,67.2,44.39,22.81,UPI,New
+2025-10-19,West,Keyboard,Accessories,7,48.0,0.22,262.08,162.68,99.4,Credit Card,Returning
+2025-10-20,East,Keyboard,Accessories,4,48.0,0.14,165.12,124.15,40.97,Credit Card,New
+2025-10-20,North,Mouse,Accessories,1,28.0,0.14,24.08,18.57,5.51,Credit Card,New
+2025-10-20,North,Laptop,Electronics,1,720.0,0.13,626.4,512.01,114.39,Credit Card,Returning
+2025-10-21,East,Mouse,Accessories,7,28.0,0.01,194.04,133.37,60.67,UPI,New
+2025-10-21,West,Laptop,Electronics,1,720.0,0.1,648.0,442.37,205.63,UPI,Returning
+2025-10-21,West,Headphones,Accessories,7,85.0,0.07,553.35,429.65,123.7,Debit Card,Returning
+2025-10-22,East,Keyboard,Accessories,1,48.0,0.16,40.32,26.22,14.1,Credit Card,Returning
+2025-10-22,East,Headphones,Accessories,2,85.0,0.0,170.0,128.82,41.18,Credit Card,New
+2025-10-23,East,Laptop,Electronics,2,720.0,0.03,1396.8,904.44,492.36,UPI,Returning
+2025-10-23,South,Laptop,Electronics,7,720.0,0.2,4032.0,3073.0,959.0,Credit Card,New
+2025-10-23,West,Smartphone,Electronics,4,510.0,0.09,1856.4,1343.55,512.85,UPI,Returning
+2025-10-24,South,Smartphone,Electronics,3,510.0,0.11,1361.7,847.79,513.91,Debit Card,Returning
+2025-10-24,North,Smartphone,Electronics,6,510.0,0.01,3029.4,2403.89,625.51,UPI,Returning
+2025-10-24,South,Monitor,Electronics,4,260.0,0.22,811.2,514.59,296.61,UPI,New
+2025-10-24,East,Headphones,Accessories,5,85.0,0.11,378.25,235.58,142.67,Debit Card,New
+2025-10-25,East,Tablet,Electronics,7,330.0,0.05,2194.5,1696.27,498.23,Credit Card,Returning
+2025-10-25,North,Mouse,Accessories,7,28.0,0.18,160.72,107.65,53.07,Credit Card,Returning
+2025-10-25,West,Tablet,Electronics,5,330.0,0.13,1435.5,967.7,467.8,Debit Card,New
+2025-10-25,West,Headphones,Accessories,7,85.0,0.11,529.55,386.82,142.73,Credit Card,New
+2025-10-26,West,Mouse,Accessories,5,28.0,0.1,126.0,80.95,45.05,Credit Card,Returning
+2025-10-26,North,Headphones,Accessories,7,85.0,0.12,523.6,356.24,167.36,UPI,New
+2025-10-27,South,Laptop,Electronics,2,720.0,0.15,1224.0,922.53,301.47,Debit Card,New
+2025-10-27,North,Headphones,Accessories,4,85.0,0.02,333.2,218.16,115.04,Debit Card,New
+2025-10-27,North,Laptop,Electronics,4,720.0,0.07,2678.4,1849.01,829.39,UPI,Returning
+2025-10-27,South,Keyboard,Accessories,1,48.0,0.12,42.24,28.34,13.9,UPI,New
+2025-10-28,East,Laptop,Electronics,4,720.0,0.11,2563.2,1660.44,902.76,Credit Card,Returning
+2025-10-28,East,Laptop,Electronics,3,720.0,0.04,2073.6,1285.9,787.7,Credit Card,New
+2025-10-28,South,Tablet,Electronics,1,330.0,0.1,297.0,223.76,73.24,Credit Card,Returning
+2025-10-28,South,Mouse,Accessories,5,28.0,0.05,133.0,84.17,48.83,Credit Card,New
+2025-10-29,North,Headphones,Accessories,2,85.0,0.14,146.2,97.92,48.28,UPI,New
+2025-10-30,East,Keyboard,Accessories,2,48.0,0.08,88.32,71.32,17.0,Credit Card,Returning
+2025-10-30,North,Keyboard,Accessories,5,48.0,0.22,187.2,135.48,51.72,UPI,Returning
+2025-10-30,South,Laptop,Electronics,1,720.0,0.09,655.2,522.69,132.51,Cash,New
+2025-10-30,South,Keyboard,Accessories,6,48.0,0.09,262.08,183.96,78.12,Credit Card,New
+2025-10-31,North,Tablet,Electronics,7,330.0,0.07,2148.3,1472.92,675.38,Debit Card,New
+2025-10-31,South,Tablet,Electronics,2,330.0,0.09,600.6,405.48,195.12,Credit Card,New
+2025-11-01,North,Headphones,Accessories,7,85.0,0.12,523.6,370.84,152.76,UPI,Returning
+2025-11-03,North,Keyboard,Accessories,1,48.0,0.0,48.0,38.38,9.62,Credit Card,Returning
+2025-11-03,North,Headphones,Accessories,1,85.0,0.04,81.6,59.31,22.29,Credit Card,New
+2025-11-03,East,Tablet,Electronics,1,330.0,0.02,323.4,218.03,105.37,Credit Card,New
+2025-11-04,North,Keyboard,Accessories,3,48.0,0.17,119.52,90.83,28.69,Cash,New
+2025-11-04,South,Laptop,Electronics,4,720.0,0.11,2563.2,1609.03,954.17,Debit Card,New
+2025-11-04,North,Monitor,Electronics,4,260.0,0.08,956.8,655.14,301.66,Credit Card,Returning
+2025-11-04,South,Mouse,Accessories,3,28.0,0.02,82.32,62.99,19.33,UPI,New
+2025-11-04,South,Keyboard,Accessories,2,48.0,0.07,89.28,56.2,33.08,UPI,Returning
+2025-11-04,South,Smartphone,Electronics,4,510.0,0.18,1672.8,1230.9,441.9,Debit Card,New
+2025-11-05,South,Mouse,Accessories,6,28.0,0.2,134.4,109.52,24.88,Cash,New
+2025-11-05,South,Laptop,Electronics,1,720.0,0.2,576.0,455.07,120.93,Credit Card,Returning
+2025-11-06,South,Monitor,Electronics,7,260.0,0.05,1729.0,1388.25,340.75,Debit Card,Returning
+2025-11-06,South,Mouse,Accessories,3,28.0,0.05,79.8,58.63,21.17,Debit Card,New
+2025-11-06,South,Laptop,Electronics,1,720.0,0.09,655.2,519.74,135.46,Debit Card,Returning
+2025-11-07,West,Laptop,Electronics,7,720.0,0.08,4636.8,3383.25,1253.55,Cash,New
+2025-11-07,North,Monitor,Electronics,7,260.0,0.18,1492.4,1129.92,362.48,UPI,New
+2025-11-07,East,Smartphone,Electronics,3,510.0,0.14,1315.8,897.26,418.54,Credit Card,New
+2025-11-07,South,Keyboard,Accessories,4,48.0,0.02,188.16,149.05,39.11,Credit Card,Returning
+2025-11-07,South,Tablet,Electronics,1,330.0,0.09,300.3,192.58,107.72,Debit Card,Returning
+2025-11-07,North,Headphones,Accessories,4,85.0,0.08,312.8,209.49,103.31,Debit Card,Returning
+2025-11-08,North,Laptop,Electronics,4,720.0,0.06,2707.2,1861.19,846.01,Credit Card,New
+2025-11-08,West,Smartphone,Electronics,1,510.0,0.18,418.2,339.06,79.14,Debit Card,Returning
+2025-11-08,West,Headphones,Accessories,6,85.0,0.21,402.9,271.9,131.0,Credit Card,New
+2025-11-08,North,Tablet,Electronics,7,330.0,0.05,2194.5,1457.1,737.4,UPI,Returning
+2025-11-09,South,Mouse,Accessories,2,28.0,0.16,47.04,37.25,9.79,UPI,Returning
+2025-11-09,North,Smartphone,Electronics,1,510.0,0.04,489.6,334.45,155.15,UPI,New
+2025-11-09,West,Mouse,Accessories,2,28.0,0.03,54.32,40.73,13.59,Debit Card,New
+2025-11-09,South,Mouse,Accessories,3,28.0,0.05,79.8,64.0,15.8,Cash,New
+2025-11-09,North,Mouse,Accessories,7,28.0,0.11,174.44,134.87,39.57,Debit Card,Returning
+2025-11-09,East,Monitor,Electronics,4,260.0,0.11,925.6,717.69,207.91,UPI,New
+2025-11-10,South,Smartphone,Electronics,4,510.0,0.15,1734.0,1381.25,352.75,UPI,Returning
+2025-11-10,East,Headphones,Accessories,7,85.0,0.04,571.2,464.53,106.67,Debit Card,Returning
+2025-11-10,North,Laptop,Electronics,3,720.0,0.02,2116.8,1416.76,700.04,UPI,New
+2025-11-11,North,Headphones,Accessories,6,85.0,0.04,489.6,345.03,144.57,UPI,Returning
+2025-11-11,West,Smartphone,Electronics,7,510.0,0.2,2856.0,2014.51,841.49,UPI,New
+2025-11-11,West,Keyboard,Accessories,7,48.0,0.21,265.44,169.64,95.8,UPI,New
+2025-11-12,North,Keyboard,Accessories,3,48.0,0.22,112.32,89.39,22.93,Debit Card,Returning
+2025-11-12,West,Keyboard,Accessories,7,48.0,0.13,292.32,184.84,107.48,UPI,Returning
+2025-11-12,West,Monitor,Electronics,5,260.0,0.12,1144.0,745.83,398.17,Debit Card,Returning
+2025-11-12,East,Monitor,Electronics,4,260.0,0.01,1029.6,838.35,191.25,Debit Card,New
+2025-11-12,East,Laptop,Electronics,6,720.0,0.09,3931.2,2707.84,1223.36,Debit Card,Returning
+2025-11-12,East,Mouse,Accessories,6,28.0,0.07,156.24,97.5,58.74,Cash,Returning
+2025-11-13,South,Headphones,Accessories,1,85.0,0.07,79.05,58.19,20.86,Debit Card,New
+2025-11-13,West,Laptop,Electronics,4,720.0,0.18,2361.6,1847.81,513.79,Debit Card,New
+2025-11-13,North,Headphones,Accessories,3,85.0,0.01,252.45,167.4,85.05,Debit Card,Returning
+2025-11-14,East,Smartphone,Electronics,4,510.0,0.2,1632.0,1024.88,607.12,Credit Card,New
+2025-11-14,West,Smartphone,Electronics,5,510.0,0.11,2269.5,1859.92,409.58,Credit Card,Returning
+2025-11-14,West,Headphones,Accessories,1,85.0,0.1,76.5,61.58,14.92,UPI,New
+2025-11-14,South,Smartphone,Electronics,7,510.0,0.07,3320.1,2303.8,1016.3,Debit Card,New
+2025-11-14,North,Tablet,Electronics,7,330.0,0.06,2171.4,1559.63,611.77,Credit Card,Returning
+2025-11-15,South,Monitor,Electronics,5,260.0,0.17,1079.0,881.62,197.38,Cash,Returning
+2025-11-15,North,Headphones,Accessories,6,85.0,0.04,489.6,380.91,108.69,Credit Card,Returning
+2025-11-16,West,Headphones,Accessories,5,85.0,0.11,378.25,270.27,107.98,UPI,New
+2025-11-16,South,Headphones,Accessories,28,85.0,0.12,2094.4,1701.44,392.96,UPI,New
+2025-11-16,West,Smartphone,Electronics,4,510.0,0.04,1958.4,1288.97,669.43,Credit Card,New
+2025-11-16,North,Mouse,Accessories,6,28.0,0.18,137.76,87.31,50.45,UPI,Returning
+2025-11-16,East,Mouse,Accessories,3,28.0,0.09,76.44,58.62,17.82,UPI,New
+2025-11-16,West,Laptop,Electronics,5,720.0,0.09,3276.0,2173.85,1102.15,Debit Card,New
+2025-11-17,West,Laptop,Electronics,2,720.0,0.12,1267.2,864.32,402.88,Cash,Returning
+2025-11-17,South,Laptop,Electronics,4,720.0,0.21,2275.2,1557.98,717.22,Debit Card,New
+2025-11-17,South,Laptop,Electronics,2,720.0,0.18,1180.8,967.37,213.43,UPI,Returning
+2025-11-17,North,Tablet,Electronics,4,330.0,0.13,1148.4,757.7,390.7,UPI,Returning
+2025-11-17,North,Mouse,Accessories,6,28.0,0.04,161.28,101.38,59.9,UPI,Returning
+2025-11-18,North,Keyboard,Accessories,3,48.0,0.22,112.32,88.66,23.66,UPI,New
+2025-11-18,South,Laptop,Electronics,3,720.0,0.15,1836.0,1291.33,544.67,Debit Card,New
+2025-11-18,North,Monitor,Electronics,7,260.0,0.16,1528.8,1042.97,485.83,Cash,New
+2025-11-19,North,Headphones,Accessories,6,85.0,0.12,448.8,286.19,162.61,Cash,Returning
+2025-11-19,North,Tablet,Electronics,3,330.0,0.04,950.4,678.77,271.63,Debit Card,Returning
+2025-11-19,West,Tablet,Electronics,3,330.0,0.18,811.8,611.94,199.86,UPI,New
+2025-11-21,North,Keyboard,Accessories,3,48.0,0.14,123.84,76.9,46.94,UPI,Returning
+2025-11-21,West,Smartphone,Electronics,4,510.0,0.19,1652.4,1134.03,518.37,Cash,New
+2025-11-21,West,Laptop,Electronics,6,720.0,0.07,4017.6,2845.28,1172.32,Cash,Returning
+2025-11-22,West,Laptop,Electronics,5,720.0,0.19,2916.0,1849.66,1066.34,Debit Card,Returning
+2025-11-22,South,Keyboard,Accessories,7,48.0,0.09,305.76,224.98,80.78,Cash,Returning
+2025-11-22,East,Keyboard,Accessories,5,48.0,0.11,213.6,136.7,76.9,UPI,New
+2025-11-23,East,Headphones,Accessories,5,85.0,0.11,378.25,300.2,78.05,Credit Card,Returning
+2025-11-23,North,Mouse,Accessories,1,28.0,0.01,27.72,19.83,7.89,Debit Card,Returning
+2025-11-23,South,Mouse,Accessories,2,28.0,0.2,44.8,34.75,10.05,UPI,New
+2025-11-24,East,Smartphone,Electronics,1,510.0,0.06,479.4,329.84,149.56,Debit Card,Returning
+2025-11-24,North,Monitor,Electronics,6,260.0,0.16,1310.4,905.19,405.21,UPI,Returning
+2025-11-24,North,Keyboard,Accessories,1,48.0,0.07,44.64,31.04,13.6,Credit Card,Returning
+2025-11-25,East,Mouse,Accessories,3,28.0,0.2,67.2,49.62,17.58,Credit Card,New
+2025-11-25,South,Tablet,Electronics,3,330.0,0.11,881.1,630.15,250.95,Credit Card,Returning
+2025-11-25,South,Mouse,Accessories,6,28.0,0.16,141.12,94.94,46.18,UPI,New
+2025-11-25,East,Headphones,Accessories,7,85.0,0.13,517.65,372.54,145.11,Cash,New
+2025-11-26,South,Laptop,Electronics,5,720.0,0.01,3564.0,2693.72,870.28,Debit Card,New
+2025-11-26,North,Headphones,Accessories,4,85.0,0.13,295.8,203.02,92.78,UPI,New
+2025-11-26,North,Monitor,Electronics,3,260.0,0.04,748.8,608.68,140.12,Credit Card,Returning
+2025-11-27,North,Smartphone,Electronics,5,510.0,0.11,2269.5,1636.75,632.75,UPI,Returning
+2025-11-27,East,Laptop,Electronics,3,720.0,0.12,1900.8,1189.27,711.53,UPI,Returning
+2025-11-27,East,Keyboard,Accessories,2,48.0,0.03,93.12,72.78,20.34,UPI,New
+2025-11-27,West,Smartphone,Electronics,1,510.0,0.11,453.9,318.59,135.31,Credit Card,New
+2025-11-28,North,Headphones,Accessories,2,85.0,0.15,144.5,105.4,39.1,UPI,Returning
+2025-11-29,West,Keyboard,Accessories,1,48.0,0.08,44.16,31.26,12.9,Credit Card,Returning
+2025-11-29,West,Mouse,Accessories,4,28.0,0.05,106.4,67.46,38.94,Credit Card,Returning
+2025-11-30,East,Laptop,Electronics,4,720.0,0.11,2563.2,2064.84,498.36,Credit Card,New
+2025-12-01,South,Tablet,Electronics,3,330.0,0.13,861.3,608.95,252.35,Debit Card,New
+2025-12-01,West,Keyboard,Accessories,6,48.0,0.18,236.16,157.83,78.33,Credit Card,New
+2025-12-01,West,Laptop,Electronics,7,720.0,0.15,4284.0,3480.18,803.82,Debit Card,New
+2025-12-01,North,Mouse,Accessories,2,28.0,0.07,52.08,39.15,12.93,UPI,New
+2025-12-01,West,Smartphone,Electronics,2,510.0,0.06,958.8,750.34,208.46,Debit Card,New
+2025-12-01,East,Tablet,Electronics,7,330.0,0.05,2194.5,1678.68,515.82,Credit Card,New
+2025-12-01,North,Laptop,Electronics,5,720.0,0.07,3348.0,2407.54,940.46,UPI,Returning
+2025-12-02,North,Headphones,Accessories,4,85.0,0.02,333.2,206.71,126.49,UPI,New
+2025-12-02,South,Smartphone,Electronics,7,510.0,0.1,3213.0,2582.71,630.29,UPI,Returning
+2025-12-02,South,Headphones,Accessories,3,85.0,0.06,239.7,152.2,87.5,Debit Card,New
+2025-12-02,North,Monitor,Electronics,1,260.0,0.02,254.8,171.95,82.85,Debit Card,Returning
+2025-12-02,West,Tablet,Electronics,6,330.0,0.03,1920.6,1309.72,610.88,UPI,New
+2025-12-03,South,Laptop,Electronics,2,720.0,0.18,1180.8,879.55,301.25,Debit Card,Returning
+2025-12-03,East,Laptop,Electronics,6,720.0,0.14,3715.2,3016.91,698.29,Credit Card,Returning
+2025-12-03,North,Mouse,Accessories,4,28.0,0.18,91.84,66.4,25.44,UPI,New
+2025-12-03,East,Mouse,Accessories,7,28.0,0.13,170.52,128.89,41.63,Debit Card,New
+2025-12-03,North,Mouse,Accessories,7,28.0,0.09,178.36,126.01,52.35,Cash,New
+2025-12-03,East,Tablet,Electronics,1,330.0,0.15,280.5,212.64,67.86,Debit Card,New
+2025-12-03,South,Smartphone,Electronics,1,510.0,0.03,494.7,397.28,97.42,UPI,New
+2025-12-04,South,Mouse,Accessories,3,28.0,0.03,81.48,64.14,17.34,Debit Card,New
+2025-12-05,East,Keyboard,Accessories,4,48.0,0.21,151.68,99.8,51.88,Debit Card,New
+2025-12-05,South,Smartphone,Electronics,20,510.0,0.16,8568.0,5647.03,2920.97,UPI,Returning
+2025-12-06,South,Headphones,Accessories,5,85.0,0.0,425.0,285.19,139.81,Credit Card,New
+2025-12-06,South,Laptop,Electronics,7,720.0,0.1,4536.0,2835.46,1700.54,Debit Card,Returning
+2025-12-06,West,Mouse,Accessories,4,28.0,0.17,92.96,66.18,26.78,UPI,New
+2025-12-07,North,Tablet,Electronics,3,330.0,0.12,871.2,637.67,233.53,Credit Card,New
+2025-12-07,West,Laptop,Electronics,7,720.0,0.02,4939.2,3184.59,1754.61,UPI,New
+2025-12-08,South,Smartphone,Electronics,7,510.0,0.19,2891.7,1998.05,893.65,Credit Card,New
+2025-12-09,North,Mouse,Accessories,2,28.0,0.03,54.32,43.26,11.06,Debit Card,Returning
+2025-12-09,North,Keyboard,Accessories,5,48.0,0.12,211.2,145.54,65.66,Cash,Returning
+2025-12-09,West,Monitor,Electronics,6,260.0,0.19,1263.6,921.13,342.47,Debit Card,New
+2025-12-09,East,Smartphone,Electronics,3,510.0,0.19,1239.3,930.24,309.06,Credit Card,New
+2025-12-09,West,Smartphone,Electronics,2,510.0,0.04,979.2,610.33,368.87,Cash,New
+2025-12-09,East,Headphones,Accessories,3,85.0,0.15,216.75,146.12,70.63,UPI,New
+2025-12-09,North,Headphones,Accessories,3,85.0,0.15,216.75,168.49,48.26,UPI,Returning
+2025-12-09,East,Monitor,Electronics,7,260.0,0.21,1437.8,907.77,530.03,UPI,New
+2025-12-10,South,Tablet,Electronics,5,330.0,0.09,1501.5,1021.0,480.5,Debit Card,New
+2025-12-10,North,Monitor,Electronics,3,260.0,0.19,631.8,487.94,143.86,Credit Card,New
+2025-12-10,West,Headphones,Accessories,7,85.0,0.18,487.9,307.8,180.1,Cash,New
+2025-12-10,North,Headphones,Accessories,4,85.0,0.13,295.8,199.66,96.14,Cash,New
+2025-12-10,West,Mouse,Accessories,7,28.0,0.07,182.28,138.51,43.77,Credit Card,Returning
+2025-12-11,East,Smartphone,Electronics,2,510.0,0.17,846.6,555.0,291.6,Credit Card,Returning
+2025-12-12,East,Monitor,Electronics,6,260.0,0.14,1341.6,1066.95,274.65,Credit Card,New
+2025-12-13,West,Mouse,Accessories,1,28.0,0.22,21.84,16.62,5.22,UPI,New
+2025-12-13,North,Smartphone,Electronics,1,510.0,0.1,459.0,328.09,130.91,Credit Card,New
+2025-12-13,North,Tablet,Electronics,1,330.0,0.15,280.5,209.07,71.43,Debit Card,Returning
+2025-12-14,East,Mouse,Accessories,5,28.0,0.07,130.2,100.42,29.78,Debit Card,New
+2025-12-15,East,Laptop,Electronics,6,720.0,0.17,3585.6,2444.48,1141.12,UPI,Returning
+2025-12-15,South,Smartphone,Electronics,4,510.0,0.11,1815.6,1209.95,605.65,UPI,Returning
+2025-12-15,South,Laptop,Electronics,7,720.0,0.03,4888.8,3971.68,917.12,Credit Card,New
+2025-12-16,West,Keyboard,Accessories,5,48.0,0.08,220.8,141.47,79.33,Credit Card,Returning
+2025-12-16,South,Mouse,Accessories,2,28.0,0.09,50.96,41.31,9.65,Credit Card,New
+2025-12-16,West,Headphones,Accessories,6,85.0,0.21,402.9,303.98,98.92,Credit Card,New
+2025-12-17,South,Monitor,Electronics,4,260.0,0.09,946.4,660.77,285.63,Credit Card,Returning
+2025-12-17,North,Mouse,Accessories,6,28.0,0.06,157.92,109.42,48.5,Debit Card,Returning
+2025-12-17,East,Keyboard,Accessories,2,48.0,0.03,93.12,69.67,23.45,Credit Card,New
+2025-12-18,North,Smartphone,Electronics,6,510.0,0.11,2723.4,2034.67,688.73,Credit Card,Returning
+2025-12-19,South,Tablet,Electronics,1,330.0,0.15,280.5,198.48,82.02,Cash,Returning
+2025-12-19,North,Laptop,Electronics,6,720.0,0.2,3456.0,2292.47,1163.53,Debit Card,Returning
+2025-12-19,West,Monitor,Electronics,7,260.0,0.19,1474.2,1180.89,293.31,Cash,Returning
+2025-12-20,South,Keyboard,Accessories,3,48.0,0.13,125.28,101.7,23.58,Debit Card,New
+2025-12-20,West,Keyboard,Accessories,5,48.0,0.18,196.8,154.92,41.88,Credit Card,Returning
+2025-12-20,West,Headphones,Accessories,3,85.0,0.01,252.45,159.73,92.72,Credit Card,New
+2025-12-21,North,Mouse,Accessories,1,28.0,0.06,26.32,18.09,8.23,Credit Card,Returning
+2025-12-21,West,Laptop,Electronics,3,720.0,0.06,2030.4,1618.59,411.81,Cash,Returning
+2025-12-22,West,Tablet,Electronics,5,330.0,0.0,1650.0,1126.09,523.91,Credit Card,New
+2025-12-22,West,Headphones,Accessories,5,85.0,0.17,352.75,234.63,118.12,UPI,New
+2025-12-22,West,Laptop,Electronics,7,720.0,0.16,4233.6,3197.55,1036.05,UPI,New
+2025-12-23,North,Tablet,Electronics,5,330.0,0.1,1485.0,1031.21,453.79,UPI,New
+2025-12-23,East,Mouse,Accessories,6,28.0,0.03,162.96,113.85,49.11,Cash,New
+2025-12-23,South,Headphones,Accessories,2,85.0,0.22,132.6,89.3,43.3,Debit Card,Returning
+2025-12-23,South,Headphones,Accessories,2,85.0,0.11,151.3,116.49,34.81,Credit Card,New
+2025-12-23,West,Laptop,Electronics,7,720.0,0.16,4233.6,3166.3,1067.3,Debit Card,New
+2025-12-23,South,Smartphone,Electronics,6,510.0,0.01,3029.4,2358.34,671.06,Credit Card,Returning
+2025-12-24,North,Monitor,Electronics,3,260.0,0.06,733.2,501.81,231.39,Credit Card,Returning
+2025-12-24,North,Headphones,Accessories,4,85.0,0.19,275.4,172.3,103.1,Cash,New
+2025-12-24,North,Tablet,Electronics,30,330.0,0.13,8613.0,6947.91,1665.09,UPI,Returning
+2025-12-24,South,Keyboard,Accessories,7,48.0,0.2,268.8,181.57,87.23,UPI,New
+2025-12-24,East,Smartphone,Electronics,3,510.0,0.15,1300.5,824.99,475.51,Credit Card,Returning
+2025-12-25,South,Laptop,Electronics,6,720.0,0.15,3672.0,2338.96,1333.04,UPI,Returning
+2025-12-25,North,Smartphone,Electronics,5,510.0,0.14,2193.0,1555.29,637.71,Debit Card,New
+2025-12-25,West,Monitor,Electronics,3,260.0,0.05,741.0,582.78,158.22,Debit Card,Returning
+2025-12-27,South,Smartphone,Electronics,5,510.0,0.0,2550.0,1758.99,791.01,Debit Card,Returning
+2025-12-28,West,Headphones,Accessories,2,85.0,0.17,141.1,89.2,51.9,Credit Card,Returning
+2025-12-28,East,Smartphone,Electronics,6,510.0,0.04,2937.6,2224.79,712.81,UPI,New
+2025-12-28,South,Headphones,Accessories,6,85.0,0.14,438.6,305.27,133.33,UPI,Returning
+2025-12-29,North,Monitor,Electronics,6,260.0,0.19,1263.6,832.03,431.57,Cash,Returning
+2025-12-29,North,Laptop,Electronics,2,720.0,0.1,1296.0,1016.02,279.98,Debit Card,New
+2025-12-29,North,Tablet,Electronics,7,330.0,0.1,2079.0,1505.55,573.45,Cash,New
+2025-12-29,North,Tablet,Electronics,7,330.0,0.09,2102.1,1716.25,385.85,Debit Card,New
+2025-12-29,East,Laptop,Electronics,3,720.0,0.05,2052.0,1656.75,395.25,Debit Card,New
+2025-12-29,South,Smartphone,Electronics,7,510.0,0.14,3070.2,2412.35,657.85,Cash,Returning
+2025-12-29,West,Headphones,Accessories,2,85.0,0.02,166.6,104.3,62.3,Debit Card,New
+2025-12-30,West,Headphones,Accessories,1,85.0,0.01,84.15,66.26,17.89,Credit Card,Returning
+2025-12-30,East,Headphones,Accessories,25,85.0,0.11,1891.25,1318.96,572.29,Credit Card,New
+2025-12-30,South,Keyboard,Accessories,2,48.0,0.09,87.36,71.62,15.74,UPI,Returning
+2025-12-30,West,Mouse,Accessories,1,28.0,0.06,26.32,21.29,5.03,UPI,New
+2025-12-31,South,Headphones,Accessories,4,85.0,0.1,306.0,201.37,104.63,UPI,Returning
+2025-12-31,West,Tablet,Electronics,3,330.0,0.09,900.9,649.95,250.95,Credit Card,New
+2025-12-31,South,Mouse,Accessories,6,28.0,0.17,139.44,107.8,31.64,UPI,New
+2025-12-31,South,Laptop,Electronics,7,720.0,0.21,3981.6,2977.23,1004.37,Credit Card,Returning
+2025-12-31,North,Keyboard,Accessories,2,48.0,0.08,88.32,55.31,33.01,UPI,Returning
+2025-12-31,West,Smartphone,Electronics,6,510.0,0.07,2845.8,1845.96,999.84,Credit Card,New
+2025-12-31,South,Tablet,Electronics,2,330.0,0.18,541.2,352.12,189.08,Credit Card,New
+2025-12-31,North,Laptop,Electronics,3,720.0,0.0,2160.0,1579.2,580.8,UPI,New
+2025-12-31,North,Laptop,Electronics,4,720.0,0.01,2851.2,1800.2,1051.0,UPI,New
+2025-12-31,West,Headphones,Accessories,1,85.0,0.01,84.15,55.28,28.87,Cash,New
